@@ -1,0 +1,974 @@
+{
+  "checked_on": "2026-10-28",
+  "kind": "Primary-source research observations, not measured model accuracy or browser performance",
+  "bedlam": {
+    "revision": "15e18597eb570e1d7166a0b9ef1009d35b904093",
+    "scene_archive_count": 66,
+    "mp4_bytes": 170586306560,
+    "json_metadata_bytes": 2626676635,
+    "csv_metadata_bytes": 516632850,
+    "selected_files": 414,
+    "selected_total_bytes": 173729646373,
+    "source": "https://huggingface.co/api/datasets/Intelligent-Systems/BEDLAM2/tree/15e18597eb570e1d7166a0b9ef1009d35b904093?recursive=true&limit=1000"
+  },
+  "g1": {
+    "gmr_revision": "25f56db79ac411258b377b6d4ccba0c8ff3372ac",
+    "menagerie_revision": "f3b6013629c7b94f8ee93fd977b161fa8350f9bc",
+    "sources": [
+      "https://github.com/YanjieZe/GMR/blob/master/assets/unitree_g1/g1_mocap_29dof.xml",
+      "https://github.com/google-deepmind/mujoco_menagerie/blob/main/unitree_g1/g1.xml"
+    ],
+    "joints": [
+      {
+        "name": "left_hip_pitch_joint",
+        "menagerie_range_radians": "-2.5307 2.8798",
+        "gmr_range_radians": "-1.57 1.57",
+        "joint_actuator_force_range_nm": "-88 88"
+      },
+      {
+        "name": "left_hip_roll_joint",
+        "menagerie_range_radians": "-0.5236 2.9671",
+        "gmr_range_radians": "-0.5236 1.57",
+        "joint_actuator_force_range_nm": "-139 139"
+      },
+      {
+        "name": "left_hip_yaw_joint",
+        "menagerie_range_radians": "-2.7576 2.7576",
+        "gmr_range_radians": "-1.57 1.57",
+        "joint_actuator_force_range_nm": "-88 88"
+      },
+      {
+        "name": "left_knee_joint",
+        "menagerie_range_radians": "-0.087267 2.8798",
+        "gmr_range_radians": "-0.087267 2.8798",
+        "joint_actuator_force_range_nm": "-139 139"
+      },
+      {
+        "name": "left_ankle_pitch_joint",
+        "menagerie_range_radians": "-0.87267 0.5236",
+        "gmr_range_radians": "-0.87267 0.5236",
+        "joint_actuator_force_range_nm": "-50 50"
+      },
+      {
+        "name": "left_ankle_roll_joint",
+        "menagerie_range_radians": "-0.2618 0.2618",
+        "gmr_range_radians": "-0.2618 0.2618",
+        "joint_actuator_force_range_nm": "-50 50"
+      },
+      {
+        "name": "right_hip_pitch_joint",
+        "menagerie_range_radians": "-2.5307 2.8798",
+        "gmr_range_radians": "-1.57 1.57",
+        "joint_actuator_force_range_nm": "-88 88"
+      },
+      {
+        "name": "right_hip_roll_joint",
+        "menagerie_range_radians": "-2.9671 0.5236",
+        "gmr_range_radians": "-1.57 0.5236",
+        "joint_actuator_force_range_nm": "-139 139"
+      },
+      {
+        "name": "right_hip_yaw_joint",
+        "menagerie_range_radians": "-2.7576 2.7576",
+        "gmr_range_radians": "-1.57 1.57",
+        "joint_actuator_force_range_nm": "-88 88"
+      },
+      {
+        "name": "right_knee_joint",
+        "menagerie_range_radians": "-0.087267 2.8798",
+        "gmr_range_radians": "-0.087267 2.8798",
+        "joint_actuator_force_range_nm": "-139 139"
+      },
+      {
+        "name": "right_ankle_pitch_joint",
+        "menagerie_range_radians": "-0.87267 0.5236",
+        "gmr_range_radians": "-0.87267 0.5236",
+        "joint_actuator_force_range_nm": "-50 50"
+      },
+      {
+        "name": "right_ankle_roll_joint",
+        "menagerie_range_radians": "-0.2618 0.2618",
+        "gmr_range_radians": "-0.2618 0.2618",
+        "joint_actuator_force_range_nm": "-50 50"
+      },
+      {
+        "name": "waist_yaw_joint",
+        "menagerie_range_radians": "-2.618 2.618",
+        "gmr_range_radians": "-1.57 1.57",
+        "joint_actuator_force_range_nm": "-88 88"
+      },
+      {
+        "name": "waist_roll_joint",
+        "menagerie_range_radians": "-0.52 0.52",
+        "gmr_range_radians": "-0.52 0.52",
+        "joint_actuator_force_range_nm": "-50 50"
+      },
+      {
+        "name": "waist_pitch_joint",
+        "menagerie_range_radians": "-0.52 0.52",
+        "gmr_range_radians": "-0.52 0.52",
+        "joint_actuator_force_range_nm": "-50 50"
+      },
+      {
+        "name": "left_shoulder_pitch_joint",
+        "menagerie_range_radians": "-3.0892 2.6704",
+        "gmr_range_radians": "-3.0892 1.149",
+        "joint_actuator_force_range_nm": "-25 25"
+      },
+      {
+        "name": "left_shoulder_roll_joint",
+        "menagerie_range_radians": "-1.5882 2.2515",
+        "gmr_range_radians": "-0.6 2.2515",
+        "joint_actuator_force_range_nm": "-25 25"
+      },
+      {
+        "name": "left_shoulder_yaw_joint",
+        "menagerie_range_radians": "-2.618 2.618",
+        "gmr_range_radians": "-1.4 2.0",
+        "joint_actuator_force_range_nm": "-25 25"
+      },
+      {
+        "name": "left_elbow_joint",
+        "menagerie_range_radians": "-1.0472 2.0944",
+        "gmr_range_radians": "-1.0472 1.7",
+        "joint_actuator_force_range_nm": "-25 25"
+      },
+      {
+        "name": "left_wrist_roll_joint",
+        "menagerie_range_radians": "-1.97222 1.97222",
+        "gmr_range_radians": "-1.97222 1.97222",
+        "joint_actuator_force_range_nm": "-25 25"
+      },
+      {
+        "name": "left_wrist_pitch_joint",
+        "menagerie_range_radians": "-1.61443 1.61443",
+        "gmr_range_radians": "-1.61443 1.61443",
+        "joint_actuator_force_range_nm": "-5 5"
+      },
+      {
+        "name": "left_wrist_yaw_joint",
+        "menagerie_range_radians": "-1.61443 1.61443",
+        "gmr_range_radians": "-1.61443 1.61443",
+        "joint_actuator_force_range_nm": "-5 5"
+      },
+      {
+        "name": "right_shoulder_pitch_joint",
+        "menagerie_range_radians": "-3.0892 2.6704",
+        "gmr_range_radians": "-3.0892 1.149",
+        "joint_actuator_force_range_nm": "-25 25"
+      },
+      {
+        "name": "right_shoulder_roll_joint",
+        "menagerie_range_radians": "-2.2515 1.5882",
+        "gmr_range_radians": "-2.2515 0.6",
+        "joint_actuator_force_range_nm": "-25 25"
+      },
+      {
+        "name": "right_shoulder_yaw_joint",
+        "menagerie_range_radians": "-2.618 2.618",
+        "gmr_range_radians": "-2.0 1.4",
+        "joint_actuator_force_range_nm": "-25 25"
+      },
+      {
+        "name": "right_elbow_joint",
+        "menagerie_range_radians": "-1.0472 2.0944",
+        "gmr_range_radians": "-1.0472 1.7",
+        "joint_actuator_force_range_nm": "-25 25"
+      },
+      {
+        "name": "right_wrist_roll_joint",
+        "menagerie_range_radians": "-1.97222 1.97222",
+        "gmr_range_radians": "-1.97222 1.97222",
+        "joint_actuator_force_range_nm": "-25 25"
+      },
+      {
+        "name": "right_wrist_pitch_joint",
+        "menagerie_range_radians": "-1.61443 1.61443",
+        "gmr_range_radians": "-1.61443 1.61443",
+        "joint_actuator_force_range_nm": "-5 5"
+      },
+      {
+        "name": "right_wrist_yaw_joint",
+        "menagerie_range_radians": "-1.61443 1.61443",
+        "gmr_range_radians": "-1.61443 1.61443",
+        "joint_actuator_force_range_nm": "-5 5"
+      }
+    ]
+  },
+  "head_download_sizes": [
+    {
+      "name": "3dpw_images",
+      "url": "https://virtualhumans.mpi-inf.mpg.de/3DPW/imageFiles.zip",
+      "bytes": "4610672154",
+      "status": 200
+    },
+    {
+      "name": "3dpw_sequences",
+      "url": "https://virtualhumans.mpi-inf.mpg.de/3DPW/sequenceFiles.zip",
+      "bytes": "277814416",
+      "status": 200
+    },
+    {
+      "name": "3dpw_demo",
+      "url": "https://virtualhumans.mpi-inf.mpg.de/3DPW/readme_and_demo.zip",
+      "bytes": "4539",
+      "status": 200
+    },
+    {
+      "name": "rtmdet_tiny",
+      "url": "https://download.openmmlab.com/mmdetection/v3.0/rtmdet/rtmdet_tiny_8xb32-300e_coco/rtmdet_tiny_8xb32-300e_coco_20220902_112414-78e30dcc.pth",
+      "bytes": "57532893",
+      "status": 200
+    },
+    {
+      "name": "hmr2_bundle",
+      "url": "https://www.cs.utexas.edu/~pavlakos/4dhumans/hmr2_data.tar.gz",
+      "bytes": "2710589440",
+      "status": 200
+    }
+  ],
+  "backbone_files": {
+    "facebook/dinov2-base": {
+      "source": "https://huggingface.co/api/models/facebook/dinov2-base/tree/main",
+      "files": [
+        {
+          "path": ".gitattributes",
+          "bytes": 1519
+        },
+        {
+          "path": "README.md",
+          "bytes": 3047
+        },
+        {
+          "path": "config.json",
+          "bytes": 548
+        },
+        {
+          "path": "model.safetensors",
+          "bytes": 346345912
+        },
+        {
+          "path": "preprocessor_config.json",
+          "bytes": 436
+        },
+        {
+          "path": "pytorch_model.bin",
+          "bytes": 346392713
+        }
+      ]
+    },
+    "facebook/dinov2-small": {
+      "source": "https://huggingface.co/api/models/facebook/dinov2-small/tree/main",
+      "files": [
+        {
+          "path": ".gitattributes",
+          "bytes": 1519
+        },
+        {
+          "path": "README.md",
+          "bytes": 3033
+        },
+        {
+          "path": "config.json",
+          "bytes": 547
+        },
+        {
+          "path": "model.safetensors",
+          "bytes": 88249960
+        },
+        {
+          "path": "preprocessor_config.json",
+          "bytes": 436
+        },
+        {
+          "path": "pytorch_model.bin",
+          "bytes": 88297097
+        }
+      ]
+    },
+    "timm/mobilenetv4_conv_small.e2400_r224_in1k": {
+      "source": "https://huggingface.co/api/models/timm/mobilenetv4_conv_small.e2400_r224_in1k/tree/main",
+      "files": [
+        {
+          "path": ".gitattributes",
+          "bytes": 1519
+        },
+        {
+          "path": "README.md",
+          "bytes": 13066
+        },
+        {
+          "path": "config.json",
+          "bytes": 681
+        },
+        {
+          "path": "model.safetensors",
+          "bytes": 15223016
+        },
+        {
+          "path": "pytorch_model.bin",
+          "bytes": 15296226
+        }
+      ]
+    },
+    "timm/efficientvit_b0.r224_in1k": {
+      "source": "https://huggingface.co/api/models/timm/efficientvit_b0.r224_in1k/tree/main",
+      "files": [
+        {
+          "path": ".gitattributes",
+          "bytes": 1519
+        },
+        {
+          "path": "README.md",
+          "bytes": 3502
+        },
+        {
+          "path": "config.json",
+          "bytes": 617
+        },
+        {
+          "path": "model.safetensors",
+          "bytes": 13684888
+        },
+        {
+          "path": "pytorch_model.bin",
+          "bytes": 13745057
+        }
+      ]
+    },
+    "timm/repvit_m1_0.dist_450e_in1k": {
+      "source": "https://huggingface.co/api/models/timm/repvit_m1_0.dist_450e_in1k/tree/main",
+      "files": [
+        {
+          "path": ".gitattributes",
+          "bytes": 1519
+        },
+        {
+          "path": "README.md",
+          "bytes": 3479
+        },
+        {
+          "path": "config.json",
+          "bytes": 647
+        },
+        {
+          "path": "model.safetensors",
+          "bytes": 29519376
+        },
+        {
+          "path": "pytorch_model.bin",
+          "bytes": 29695790
+        }
+      ]
+    }
+  },
+  "package_metadata": {
+    "mujoco": {
+      "name": "@mujoco/mujoco",
+      "version": "3.9.0",
+      "licence": "Apache-2.0",
+      "dist": {
+        "shasum": "6defdce5041cbdd92826a94793a8b083f3a72b8d",
+        "tarball": "https://registry.npmjs.org/@mujoco/mujoco/-/mujoco-3.9.0.tgz",
+        "fileCount": 10,
+        "integrity": "sha512-dob2Dec5IM06ZRVM/F3ZT5UaSs9lWV5UPLHVcAbVe+riWf75B7YzfmIRVJWfA/8bHlDOUdM8tAJzFBP8buU6hw==",
+        "signatures": [
+          {
+            "sig": "MEYCIQCE3RioaWVBIO6jxnVhCHWoTewvOIH+reYNSWt4/MKuhAIhAKXEesskRFtJbfcj9tG8ISOG0Rdq/yk5Nusf1w/e3GQC",
+            "keyid": "SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U"
+          }
+        ],
+        "attestations": {
+          "url": "https://registry.npmjs.org/-/npm/v1/attestations/@mujoco%2fmujoco@3.9.0",
+          "provenance": {
+            "predicateType": "https://slsa.dev/provenance/v1"
+          }
+        },
+        "unpackedSize": 19723229
+      },
+      "source": "https://registry.npmjs.org/@mujoco/mujoco/3.9.0",
+      "observed_tarball_bytes": 5047889,
+      "single_thread_wasm_bytes": 9139270,
+      "single_thread_js_bytes": 287485
+    },
+    "ort": {
+      "name": "onnxruntime-web",
+      "version": "1.31.1",
+      "licence": "MIT",
+      "dist": {
+        "shasum": "309e196c733e90a038e0380867dde308a994de92",
+        "tarball": "https://registry.npmjs.org/onnxruntime-web/-/onnxruntime-web-1.31.1.tgz",
+        "fileCount": 511,
+        "integrity": "sha512-5GeH+bWQ+HxM10z7erGlsWqryrwMbSvm/1tkIsKTT48g0fI19VXVVC435t4t7VsPdSQeS7NmuZPXrQ73k82URw==",
+        "signatures": [
+          {
+            "sig": "MEYCIQDzMJNJJ8DYAdYYRUFfS1fPUH50IiybWjMBQWwixZFySAIhAP0QHFsGc6QPTPsNvP4+Nuos5lOQudymf6CMq5CMKvF9",
+            "keyid": "SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U"
+          },
+          {
+            "sig": "MEUCIQD1RctZDNNTHrJoKbFKhNN8rn2x1MYqW+6fk5SiH8J2+wIgOVGa26m6LH8O921WfmuS1+0+CY1elO1LojrUw7pETJU=",
+            "keyid": "SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U"
+          }
+        ],
+        "unpackedSize": 150622959
+      },
+      "source": "https://registry.npmjs.org/onnxruntime-web/1.31.1"
+    }
+  },
+  "source_content_hashes": [
+    {
+      "cache_label": "3dpw_license",
+      "bytes": 5246,
+      "sha256": "592161803c09b2d6f6854797bc31154ee1f4bd3b1c71d6e222a06674d66dc489"
+    },
+    {
+      "cache_label": "bedlam2_download",
+      "bytes": 2326,
+      "sha256": "f4cae98d478961aa95b90e31342a883f62018fe65537f05bce173a56f3dfe85a"
+    },
+    {
+      "cache_label": "bedlam2_processing",
+      "bytes": 23352,
+      "sha256": "14be840b858df2a1bcf5acd7cd26990e0f37a63603670046568816362f4227f3"
+    },
+    {
+      "cache_label": "bedlam2_scenes",
+      "bytes": 3649,
+      "sha256": "877adc60d271bd05eb077088a628d7f30bbdc55626229859a8e445acde6ce768"
+    },
+    {
+      "cache_label": "bedlam_faq",
+      "bytes": 12068,
+      "sha256": "e31e8b5d352f7fba5eabfdad8038e52ab4812f6b826fd7cca16fe3ba52d4024b"
+    },
+    {
+      "cache_label": "bedlam_info",
+      "bytes": 236221,
+      "sha256": "80ab91f22243d8e9a3be504599585b349a78422ddebb9c15a48fe860b89d7342"
+    },
+    {
+      "cache_label": "bedlam_license",
+      "bytes": 15178,
+      "sha256": "ea540d6b37ecc4c426516460bf7060fd8cbe6935a361fb9c3158d3bf91529563"
+    },
+    {
+      "cache_label": "bedlam_readme",
+      "bytes": 6888,
+      "sha256": "0c78084db237f0b1ac25ab901cd202a1be974bbb7d13d8937e11aa7380245d1d"
+    },
+    {
+      "cache_label": "bedlam_repo_tree",
+      "bytes": 32392,
+      "sha256": "fbb67cb63ef1c08a29963f8b44d8eecd48408c837b6bdb5df8f6de1cbff51fda"
+    },
+    {
+      "cache_label": "bedlam_tree",
+      "bytes": 281836,
+      "sha256": "74b1294ecd29b1dfd72d35b0ad8909656c7575c08096cb35f10483964d3bf3e2"
+    },
+    {
+      "cache_label": "camera_bedlam2",
+      "bytes": 3813,
+      "sha256": "6150ea44484dd64bde1fa82b98e7755111def9385cd89e637d16b0b462890933"
+    },
+    {
+      "cache_label": "camera_download_script",
+      "bytes": 2151,
+      "sha256": "33d68f37e8093ddea0afccbcbcc2dd836861f9ea922ee4276f73a64d62821800"
+    },
+    {
+      "cache_label": "camera_readme",
+      "bytes": 3680,
+      "sha256": "c9d0d5995b1e03db9c428a07d26871fd7cb6ddca6dfb5b60a242235fdc045037"
+    },
+    {
+      "cache_label": "camera_tree",
+      "bytes": 28659,
+      "sha256": "8ec65f5dec5c6dc5a242ea3297d0e515c84df032908e54fd86b8272325cba5ea"
+    },
+    {
+      "cache_label": "dinov2_base_card",
+      "bytes": 3047,
+      "sha256": "a25f88d48fa60f0c82a6573285ce4f01d60411c986b2de03feb68cf65480eb18"
+    },
+    {
+      "cache_label": "dinov2_base_files",
+      "bytes": 1009,
+      "sha256": "ba9aa13a06960b0393c13ac1404bbcbbdc1555c2cc11b8002d46aa64b3330dd9"
+    },
+    {
+      "cache_label": "dinov2_readme",
+      "bytes": 32799,
+      "sha256": "d1bc2e9686522bbd66ed6123dc81eb36b3a98e8ea9a2ca97778f54a1c641c9e1"
+    },
+    {
+      "cache_label": "dinov2_small_card",
+      "bytes": 3033,
+      "sha256": "4c20dca454a8e5c670e8de5c7e6040f512aeca5438516f7623eedc4e3b00599c"
+    },
+    {
+      "cache_label": "dinov2_small_files",
+      "bytes": 1005,
+      "sha256": "ff44df83459b2b68341b4ea2f29b3e575cea796e9270af151df2496a604ed7ba"
+    },
+    {
+      "cache_label": "dinov3_license",
+      "bytes": 7503,
+      "sha256": "25d122eb8f5b880fd23c736fb6ea8018ee45c12237e00b8a86d14c653904999e"
+    },
+    {
+      "cache_label": "efficientvit_files",
+      "bytes": 895,
+      "sha256": "50e90ff755002fcc93d8e16004859c33209b39bdac82e351873fd3336d7d7424"
+    },
+    {
+      "cache_label": "efficientvit_timm",
+      "bytes": 3502,
+      "sha256": "75b81214fde157996faed09f19447aa0f44838d3eaea7ea6474634551302b94f"
+    },
+    {
+      "cache_label": "emdb",
+      "bytes": 13023,
+      "sha256": "c80c2e96897c85e9c0a198726d23ef0e5f24ce24bc76fc7fbc3e2a02ec925edd"
+    },
+    {
+      "cache_label": "emdb_paper",
+      "bytes": 470,
+      "sha256": "636dded000f774c175421d1166042b811e73fa9c9ffbc5018d42af98b9b2070b"
+    },
+    {
+      "cache_label": "emdb_readme",
+      "bytes": 5674,
+      "sha256": "80c3f99c8806197776a11c4418fe7ef78ce907f7e994251435dcbbaa88dcf181"
+    },
+    {
+      "cache_label": "gmr_g1",
+      "bytes": 27122,
+      "sha256": "85a25128d42ad3cc8dd071c089806a2773a59ee0689edcc646aeb0201ae8f4c8"
+    },
+    {
+      "cache_label": "gmr_gvhmr_script",
+      "bytes": 4667,
+      "sha256": "aa3f304125bf9bbd689eba04a074b1a48e92a3cecfc44d700ccd52083b8b72d7"
+    },
+    {
+      "cache_label": "gmr_license",
+      "bytes": 1055,
+      "sha256": "c5a85c0b0012230739a0ab8f30eafba7f8ee7a1b29e025d01e27fa330298e522"
+    },
+    {
+      "cache_label": "gmr_params",
+      "bytes": 4990,
+      "sha256": "43610e0b4f32b8f5f9e8790c947f4e9a79805ee01d80eda594fabf3d8b48a46b"
+    },
+    {
+      "cache_label": "gmr_smpl_script",
+      "bytes": 5208,
+      "sha256": "1dae07c8a3ff9fc1ef13b4305b9fa27a7ae4265af40433cb8b3824e32240ae29"
+    },
+    {
+      "cache_label": "gmr_smpl_utils",
+      "bytes": 13571,
+      "sha256": "4d358d78c667e6c362fe0e2db984041564a8e8e8a6f19ba29c83c5a8e6687b0d"
+    },
+    {
+      "cache_label": "gmr_tree",
+      "bytes": 542400,
+      "sha256": "efdb8cd242b0300a86696c7f3ff1e480406e837411bacc8acbbe18692fd4a9c3"
+    },
+    {
+      "cache_label": "hf_secrets",
+      "bytes": 223144,
+      "sha256": "19dab2224b57c17bc84b13f95e09ff1247ede037fe1231c412aeea1b8975d31f"
+    },
+    {
+      "cache_label": "hf_static",
+      "bytes": 186281,
+      "sha256": "c91974aace5370399a6563bc0ac186f3b35b1b3d218873ad675e947e97fe23e1"
+    },
+    {
+      "cache_label": "hf_terms",
+      "bytes": 114347,
+      "sha256": "ffae34d0914aa1887b5abc46f7bae2ff851c456f5a1a38f99a069069dfc98932"
+    },
+    {
+      "cache_label": "hf_tokens",
+      "bytes": 223144,
+      "sha256": "d3f43ea1c98105e334514827a856a73840266252c9395059c261539f8a67e73e"
+    },
+    {
+      "cache_label": "hmr_license",
+      "bytes": 1081,
+      "sha256": "787e60af91a7617ab19253ec77d95a94f902a6d7a43afbd94f3fc051e4a06710"
+    },
+    {
+      "cache_label": "hmr_models",
+      "bytes": 3298,
+      "sha256": "47d5b2ef6069099014110d66e608a2f53cc697217aae1bcfc51f42f72f360545"
+    },
+    {
+      "cache_label": "mediapipe_issue",
+      "bytes": 13966,
+      "sha256": "aab11f0718c8839d86f8e5ed05e31ad8ee755750956d99b31622e92d91e63b74"
+    },
+    {
+      "cache_label": "mediapipe_license",
+      "bytes": 12331,
+      "sha256": "8707eef0533987efc5b155d64761eeb6e20793f50b9bd1a68dad1cf4719d0ed8"
+    },
+    {
+      "cache_label": "menagerie_commit",
+      "bytes": 8222,
+      "sha256": "502b29da14b8a3d6d70f184fce089bba7c2d7be390aee95e1c2d16bd7c009f58"
+    },
+    {
+      "cache_label": "menagerie_g1",
+      "bytes": 23446,
+      "sha256": "3c2616550a31f33e84d3c80b8e913ac5618c8888019b0c9490dae93493e647f3"
+    },
+    {
+      "cache_label": "menagerie_license",
+      "bytes": 1537,
+      "sha256": "98335465f43a20b5850e4651db6e74c4aa1e9fc8e8813d38f345178045c0da50"
+    },
+    {
+      "cache_label": "menagerie_readme",
+      "bytes": 2202,
+      "sha256": "e0ca5e85f68ff9554631c3ea6ac624b469d6018a37e273daa1234e43e3ad4395"
+    },
+    {
+      "cache_label": "menagerie_tree",
+      "bytes": 900094,
+      "sha256": "307b97a2bab669569c60348222106b2402f57f6fb0ceba3704cdd6c0f8863247"
+    },
+    {
+      "cache_label": "mmdetection_license",
+      "bytes": 11398,
+      "sha256": "874b8b2e6f12306a1ff7812c068a0dbf880418b8ac1f7190382bd6c6da9f23a1"
+    },
+    {
+      "cache_label": "mobile_files",
+      "bytes": 896,
+      "sha256": "b877d5290f2bde8d013fbaa52c9be64405aac51a7e9970ee21719b2751c1b58c"
+    },
+    {
+      "cache_label": "mobile_timm",
+      "bytes": 13066,
+      "sha256": "864651a7a9c0457023728da202cb1119abf3fa0872ded374ba736efde6454eb7"
+    },
+    {
+      "cache_label": "mujoco_npm",
+      "bytes": 2176,
+      "sha256": "358f1fc0abede3faff4f83398bef59451dda46d8fa172d39a78fe1bfed3fcab5"
+    },
+    {
+      "cache_label": "mujoco_package_readme",
+      "bytes": 20260,
+      "sha256": "8aac6a48315d961e9f5d06b1df254f6033ce541e4e8b7ba8d376859d6ad6b570"
+    },
+    {
+      "cache_label": "mujoco_types",
+      "bytes": 135826,
+      "sha256": "9895441e51a192838e43e5924a87032d433ce00edd67ca99c4a03367173207f8"
+    },
+    {
+      "cache_label": "ort_factory",
+      "bytes": 9100,
+      "sha256": "757bfa8658b32704cfa8b6254a8930a0525e1e20ca0ddd68e952d3c1f25f8376"
+    },
+    {
+      "cache_label": "ort_import",
+      "bytes": 12128,
+      "sha256": "dce64940fe077ce552f3ea3926f02896fedf95eda77706064564afcd505aac0a"
+    },
+    {
+      "cache_label": "ort_jsep_ops",
+      "bytes": 7348,
+      "sha256": "6895744d74d1a8771c4744648ed62dcc4cca2d2a1a6d9f582930e98a9c7b4cf3"
+    },
+    {
+      "cache_label": "ort_license",
+      "bytes": 1073,
+      "sha256": "2f07c72751aed99790b8a4869cf2311df85a860b22ded05fa22803587a48922c"
+    },
+    {
+      "cache_label": "ort_npm",
+      "bytes": 5620,
+      "sha256": "401cb3dc17e5575323460fa01e506ca9e8a1f081e812557fb77dfcdb2729a86f"
+    },
+    {
+      "cache_label": "ort_ops",
+      "bytes": 5548,
+      "sha256": "f13335829699e1aa6920368eb33472251ca572affd06b0000e37a90ca860af02"
+    },
+    {
+      "cache_label": "ort_quantize",
+      "bytes": 14669,
+      "sha256": "df943958041947d62e8af21b7d3bf118a504102698fa5b2c45d9b2f5ef53e989"
+    },
+    {
+      "cache_label": "ort_wasm_ops",
+      "bytes": 353942,
+      "sha256": "db1952f8776b13f8b515c3b1b832d861d21247d3e0075085a7c03a1a96dc6759"
+    },
+    {
+      "cache_label": "ort_web_readme",
+      "bytes": 5284,
+      "sha256": "3089f92ffb02d63365f05d870df5c6ac9bbaed096943b5b4fe55afd9b7a624f8"
+    },
+    {
+      "cache_label": "ort_webgpu_backend",
+      "bytes": 35612,
+      "sha256": "61ecfce381006eb1c95bec29cb2a30f28b43f3c7c5ed15824a1995a1108c1094"
+    },
+    {
+      "cache_label": "ort_webgpu_ops_cpp",
+      "bytes": 59472,
+      "sha256": "9eb1acd4d852820ca9eeb6e89f04a2b03541294b61fbdf86bf5262927ba578b6"
+    },
+    {
+      "cache_label": "repvit_card",
+      "bytes": 3479,
+      "sha256": "6cf02a0c5fef500ddaba6afd880c7759b794832ec5886913eb928ae4c4a31015"
+    },
+    {
+      "cache_label": "repvit_files",
+      "bytes": 895,
+      "sha256": "3e2b5c613b10c8208bd8ad13769f67a441a7c692f325fd8806f2db69e4d06b3f"
+    },
+    {
+      "cache_label": "rich",
+      "bytes": 12229,
+      "sha256": "cb98ce8a7138bfad8525b7af6021369ed160830c2faa717b87d533415c04e188"
+    },
+    {
+      "cache_label": "rich_bstro",
+      "bytes": 2813,
+      "sha256": "883efbae7d33351bd98758cc2b38d0825bb51a4aae256a6ea286a06c05a34a48"
+    },
+    {
+      "cache_label": "rich_license",
+      "bytes": 13535,
+      "sha256": "2dbd0f138cf9731bee487e88d06d441b91f41988f59909a6ca6f062c3e9d2a84"
+    },
+    {
+      "cache_label": "rich_toolkit",
+      "bytes": 3314,
+      "sha256": "f5e696e0f2f17f64d87e623e3ab00999ea6bd6cfee439f06b8462f22a54cd17c"
+    },
+    {
+      "cache_label": "rtmdet_readme",
+      "bytes": 39490,
+      "sha256": "61c996da6aa98a4dfda3779108b7bf8cf9723a1d92fc1e19dd6f157071d0cb07"
+    },
+    {
+      "cache_label": "rtmpose_license",
+      "bytes": 11400,
+      "sha256": "aa2c6f3408169b96e5547c875deb481c91502514c1885fa0acb4b596c8909cb9"
+    },
+    {
+      "cache_label": "rtmpose_readme",
+      "bytes": 96122,
+      "sha256": "21a455d285fbe64956f04f248b4a1cde94bff7c7984487c04dd45bf0e504a6ee"
+    },
+    {
+      "cache_label": "rtmpose_readme_api",
+      "bytes": 4193,
+      "sha256": "2886ef79211c73fd04476b7ae27b9f08c310df82eb845f4da4575aaa4ced5234"
+    },
+    {
+      "cache_label": "smplx_readme",
+      "bytes": 9774,
+      "sha256": "45b0700455e72d93800c4ec6c92e4beb9a6d7ed9020067500d1b88e1ec48bf88"
+    },
+    {
+      "cache_label": "vitpose_license",
+      "bytes": 11400,
+      "sha256": "aa2c6f3408169b96e5547c875deb481c91502514c1885fa0acb4b596c8909cb9"
+    }
+  ],
+  "citation_sources": {
+    "B2-license": "https://bedlam2.is.tue.mpg.de/license.html",
+    "B2-home": "https://bedlam2.is.tue.mpg.de/",
+    "B2-hf": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2",
+    "B2-tree": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/tree/15e18597eb570e1d7166a0b9ef1009d35b904093",
+    "B2-api": "https://huggingface.co/api/datasets/Intelligent-Systems/BEDLAM2/tree/15e18597eb570e1d7166a0b9ef1009d35b904093?recursive=true&limit=1000",
+    "B2-download": "https://bedlam2.is.tue.mpg.de/download.php",
+    "B2-process": "https://github.com/pixelite1201/BEDLAM/blob/master/data_processing/ReadMe.md",
+    "B2-parser": "https://github.com/pixelite1201/BEDLAM/blob/master/data_processing/df_full_body_smplx_bedlam2.py",
+    "B2-download-script": "https://github.com/pixelite1201/BEDLAM/blob/master/data_processing/download_utils_bedlam2.sh",
+    "B2-scenes": "https://github.com/pixelite1201/BEDLAM/blob/master/data_processing/bedlam2_scene_names.csv",
+    "B2-faq": "https://bedlam2.is.tue.mpg.de/faq.html",
+    "SX-license": "https://smpl-x.is.tue.mpg.de/modellicense.html",
+    "SX-download": "https://smpl-x.is.tue.mpg.de/download.php",
+    "SX-readme": "https://github.com/vchoutas/smplx#downloading-the-model",
+    "SMPL-home": "https://smpl.is.tue.mpg.de/",
+    "GMR-readme": "https://github.com/YanjieZe/GMR/blob/25f56db79ac411258b377b6d4ccba0c8ff3372ac/README.md",
+    "GMR-utils": "https://github.com/YanjieZe/GMR/blob/25f56db79ac411258b377b6d4ccba0c8ff3372ac/general_motion_retargeting/utils/smpl.py",
+    "GMR-script": "https://github.com/YanjieZe/GMR/blob/25f56db79ac411258b377b6d4ccba0c8ff3372ac/scripts/smplx_to_robot.py",
+    "GMR-gvhmr": "https://github.com/YanjieZe/GMR/blob/25f56db79ac411258b377b6d4ccba0c8ff3372ac/scripts/gvhmr_to_robot.py",
+    "GMR-xml": "https://github.com/YanjieZe/GMR/blob/25f56db79ac411258b377b6d4ccba0c8ff3372ac/assets/unitree_g1/g1_mocap_29dof.xml",
+    "GMR-params": "https://github.com/YanjieZe/GMR/blob/25f56db79ac411258b377b6d4ccba0c8ff3372ac/general_motion_retargeting/params.py",
+    "GMR-license": "https://github.com/YanjieZe/GMR/blob/25f56db79ac411258b377b6d4ccba0c8ff3372ac/LICENSE",
+    "GMR-tree": "https://api.github.com/repos/YanjieZe/GMR/git/trees/25f56db79ac411258b377b6d4ccba0c8ff3372ac?recursive=1",
+    "MG-xml": "https://github.com/google-deepmind/mujoco_menagerie/blob/f3b6013629c7b94f8ee93fd977b161fa8350f9bc/unitree_g1/g1.xml",
+    "MG-readme": "https://github.com/google-deepmind/mujoco_menagerie/blob/f3b6013629c7b94f8ee93fd977b161fa8350f9bc/unitree_g1/README.md",
+    "MG-license": "https://github.com/google-deepmind/mujoco_menagerie/blob/f3b6013629c7b94f8ee93fd977b161fa8350f9bc/unitree_g1/LICENSE",
+    "MG-tree": "https://api.github.com/repos/google-deepmind/mujoco_menagerie/git/trees/f3b6013629c7b94f8ee93fd977b161fa8350f9bc?recursive=1",
+    "MJ-npm": "https://registry.npmjs.org/@mujoco/mujoco/3.9.0",
+    "MJ-tgz": "https://registry.npmjs.org/@mujoco/mujoco/-/mujoco-3.9.0.tgz",
+    "MJ-types": "https://unpkg.com/@mujoco/mujoco@3.9.0/mujoco.d.ts",
+    "MJ-readme": "https://github.com/google-deepmind/mujoco/blob/main/wasm/README.md",
+    "ORT-license": "https://github.com/microsoft/onnxruntime/blob/v1.31.1/LICENSE",
+    "ORT-npm": "https://registry.npmjs.org/onnxruntime-web/1.31.1",
+    "ORT-gpu": "https://onnxruntime.ai/docs/tutorials/web/ep-webgpu.html",
+    "ORT-web": "https://onnxruntime.ai/docs/get-started/with-javascript/web.html",
+    "ORT-backend": "https://github.com/microsoft/onnxruntime/blob/main/js/web/lib/wasm/jsep/backend-webgpu.ts",
+    "ORT-resolver": "https://github.com/microsoft/onnxruntime/blob/v1.31.1/js/web/lib/wasm/jsep/webgpu/op-resolve-rules.ts",
+    "ORT-import": "https://github.com/microsoft/onnxruntime/blob/v1.31.1/js/web/lib/wasm/wasm-utils-import.ts",
+    "ORT-readme": "https://github.com/microsoft/onnxruntime/blob/main/js/web/README.md",
+    "ORT-ops": "https://github.com/microsoft/onnxruntime/blob/main/js/web/docs/webgpu-operators.md",
+    "ORT-flags": "https://onnxruntime.ai/docs/tutorials/web/env-flags-and-session-options.html",
+    "ORT-deploy": "https://onnxruntime.ai/docs/tutorials/web/deploy.html",
+    "Isolation": "https://web.dev/articles/cross-origin-isolation-guide",
+    "EMDB-terms": "https://emdb.ait.ethz.ch/",
+    "EMDB-paper": "https://arxiv.org/abs/2308.16894",
+    "EMDB-schema": "https://github.com/eth-ait/emdb/blob/main/dataset.md",
+    "EMDB-readme": "https://github.com/eth-ait/emdb/blob/main/README.md",
+    "PW-home": "https://virtualhumans.mpi-inf.mpg.de/3DPW/",
+    "PW-license": "https://virtualhumans.mpi-inf.mpg.de/3DPW/license.html",
+    "PW-eval": "https://virtualhumans.mpi-inf.mpg.de/3DPW/evaluation.html",
+    "PW-images": "https://virtualhumans.mpi-inf.mpg.de/3DPW/imageFiles.zip",
+    "PW-sequences": "https://virtualhumans.mpi-inf.mpg.de/3DPW/sequenceFiles.zip",
+    "PW-demo": "https://virtualhumans.mpi-inf.mpg.de/3DPW/readme_and_demo.zip",
+    "RICH-license": "https://rich.is.tue.mpg.de/license.html",
+    "RICH-register": "https://rich.is.tue.mpg.de/register.php",
+    "RICH-paper": "https://openaccess.thecvf.com/content/CVPR2022/papers/Huang_Capturing_and_Inferring_Dense_Full-Body_Human-Scene_Contact_CVPR_2022_paper.pdf",
+    "RICH-toolkit": "https://github.com/paulchhuang/rich_toolkit",
+    "YOLO-license": "https://docs.ultralytics.com/help/contributing/#open-sourcing-your-yolo-project-under-agpl-30",
+    "AGPL": "https://www.gnu.org/licenses/agpl-3.0.html",
+    "YOLO26": "https://docs.ultralytics.com/models/yolo26/",
+    "YOLO-export": "https://docs.ultralytics.com/modes/export/",
+    "MP-license": "https://github.com/google-ai-edge/mediapipe/blob/master/LICENSE",
+    "MP-issue": "https://github.com/google-ai-edge/mediapipe/issues/6306",
+    "MP-models": "https://developers.google.com/edge/mediapipe/solutions/vision/object_detector",
+    "MP-web": "https://developers.google.com/edge/mediapipe/solutions/vision/object_detector/web_js",
+    "RTM-det": "https://github.com/open-mmlab/mmdetection/blob/main/configs/rtmdet/README.md",
+    "RTM-pose": "https://github.com/open-mmlab/mmpose/blob/main/projects/rtmpose/README.md",
+    "RTM-license": "https://github.com/open-mmlab/mmdetection/blob/main/LICENSE",
+    "RTMP-license": "https://github.com/open-mmlab/mmpose/blob/main/LICENSE",
+    "RTMP-deploy": "https://github.com/open-mmlab/mmpose/tree/main/projects/rtmpose/examples/onnxruntime",
+    "RTM-weight": "https://download.openmmlab.com/mmdetection/v3.0/rtmdet/rtmdet_tiny_8xb32-300e_coco/rtmdet_tiny_8xb32-300e_coco_20220902_112414-78e30dcc.pth",
+    "DINO2": "https://github.com/facebookresearch/dinov2#license",
+    "DINO2-base": "https://huggingface.co/facebook/dinov2-base",
+    "DINO2-small": "https://huggingface.co/facebook/dinov2-small",
+    "DINO2-base-files": "https://huggingface.co/api/models/facebook/dinov2-base/tree/main",
+    "DINO2-small-files": "https://huggingface.co/api/models/facebook/dinov2-small/tree/main",
+    "DINO3": "https://github.com/facebookresearch/dinov3",
+    "DINO3-license": "https://github.com/facebookresearch/dinov3/blob/main/LICENSE.md",
+    "HMR-license": "https://github.com/shubham-goel/4D-Humans/blob/main/LICENSE.md",
+    "HMR-readme": "https://github.com/shubham-goel/4D-Humans",
+    "HMR-loader": "https://github.com/shubham-goel/4D-Humans/blob/main/hmr2/models/__init__.py",
+    "HMR-bundle": "https://www.cs.utexas.edu/~pavlakos/4dhumans/hmr2_data.tar.gz",
+    "CAM-license": "https://camerahmr.is.tue.mpg.de/license.html",
+    "CAM-readme": "https://github.com/pixelite1201/CameraHMR/blob/master/ReadMe.md",
+    "CAM-download": "https://github.com/pixelite1201/CameraHMR/blob/master/scripts/fetch_demo_data_bedlam2.sh",
+    "CAM-b2": "https://github.com/pixelite1201/CameraHMR/blob/master/docs/bedlam2.md",
+    "VIT-license": "https://github.com/ViTAE-Transformer/ViTPose/blob/main/LICENSE",
+    "VIT-readme": "https://github.com/ViTAE-Transformer/ViTPose",
+    "MB4": "https://huggingface.co/timm/mobilenetv4_conv_small.e2400_r224_in1k",
+    "MB4-files": "https://huggingface.co/api/models/timm/mobilenetv4_conv_small.e2400_r224_in1k/tree/main",
+    "EVIT": "https://huggingface.co/timm/efficientvit_b0.r224_in1k",
+    "EVIT-license": "https://github.com/mit-han-lab/efficientvit/blob/master/LICENSE",
+    "EVIT-files": "https://huggingface.co/api/models/timm/efficientvit_b0.r224_in1k/tree/main",
+    "REP": "https://huggingface.co/timm/repvit_m1_0.dist_450e_in1k",
+    "REP-license": "https://github.com/THU-MIG/RepViT/blob/main/LICENSE",
+    "REP-readme": "https://github.com/THU-MIG/RepViT",
+    "REP-files": "https://huggingface.co/api/models/timm/repvit_m1_0.dist_450e_in1k/tree/main",
+    "HF-zero": "https://huggingface.co/docs/hub/spaces-zerogpu",
+    "HF-static": "https://huggingface.co/docs/hub/spaces-sdks-static",
+    "HF-gpu": "https://huggingface.co/docs/hub/spaces-gpus",
+    "HF-price": "https://huggingface.co/pricing",
+    "HF-terms": "https://huggingface.co/terms-of-service",
+    "HF-overview": "https://huggingface.co/docs/hub/spaces-overview",
+    "HF-tokens": "https://huggingface.co/docs/hub/security-tokens",
+    "HF-download": "https://huggingface.co/docs/huggingface_hub/guides/download",
+    "HF-quota": "https://huggingface.co/docs/huggingface_hub/guides/manage-spaces#track-your-zerogpu-quota",
+    "THREE-license": "https://github.com/mrdoob/three.js/blob/dev/LICENSE"
+  },
+  "research_protocol": {
+    "method": "Official pages/licences/source inspection; public API metadata; HEAD Content-Length; npm tarball inspection. No model inference or benchmark.",
+    "split_manifest": null,
+    "seeds": null,
+    "configuration": "Source URLs/revisions and named files recorded in this audit and companion BEDLAM manifest.",
+    "code_revision": "Documentation-only research; repository base c0e34a4; the containing Git commit records the final documents."
+  },
+  "published_observations": {
+    "bedlam_headline": {
+      "source": "https://bedlam2.is.tue.mpg.de/",
+      "mp4_GB_approx": 160,
+      "png_TB_approx": 11,
+      "depth_TB_approx": 15,
+      "mirror_announcement": "2026-02-26"
+    },
+    "gmr_assets": {
+      "files": 69,
+      "bytes": 54380454,
+      "source": "https://api.github.com/repos/YanjieZe/GMR/git/trees/25f56db79ac411258b377b6d4ccba0c8ff3372ac?recursive=1"
+    },
+    "menagerie_assets": {
+      "files": 64,
+      "bytes": 39655929,
+      "source": "https://api.github.com/repos/google-deepmind/mujoco_menagerie/git/trees/f3b6013629c7b94f8ee93fd977b161fa8350f9bc?recursive=1"
+    },
+    "zerogpu": {
+      "source": "https://huggingface.co/docs/hub/spaces-zerogpu",
+      "free_spaces": 2,
+      "free_account_min_age_days_exclusive": 30,
+      "pro_spaces": 10,
+      "default_call_seconds": 60,
+      "visitor_daily_minutes": {
+        "anonymous": 2,
+        "free": 5,
+        "pro": 40
+      },
+      "python_versions": [
+        "3.10.13",
+        "3.12.12"
+      ],
+      "gradio_min_major": 4,
+      "pytorch_min": "2.8.0",
+      "large_vram_GB": 48,
+      "xlarge_vram_GB": 96,
+      "xlarge_quota_multiplier": 2
+    },
+    "hf_pro": {
+      "source": "https://huggingface.co/pricing",
+      "USD_per_month": 9
+    },
+    "emdb": {
+      "source": "https://arxiv.org/abs/2308.16894",
+      "sequences": 81,
+      "participants": 10,
+      "minutes": 58
+    },
+    "3dpw": {
+      "source": "https://virtualhumans.mpi-inf.mpg.de/3DPW/",
+      "sequences": 60
+    },
+    "rich": {
+      "source": "https://openaccess.thecvf.com/content/CVPR2022/papers/Huang_Capturing_and_Inferring_Dense_Full-Body_Human-Scene_Contact_CVPR_2022_paper.pdf",
+      "videos": 134,
+      "meshes_approx": 85000,
+      "images_approx": 540000
+    }
+  },
+  "validation": {
+    "decision_entries": 11,
+    "resolved_reference_definitions": 107,
+    "selected_files": 414,
+    "joint_rows": 29,
+    "pinned_manifest_recheck": true,
+    "git_diff_check": "passed"
+  }
+}

@@ -1,0 +1,2083 @@
+{
+  "checked_on": "2026-10-28",
+  "dataset": "Intelligent-Systems/BEDLAM2",
+  "revision": "15e18597eb570e1d7166a0b9ef1009d35b904093",
+  "source": "https://huggingface.co/api/datasets/Intelligent-Systems/BEDLAM2/tree/15e18597eb570e1d7166a0b9ef1009d35b904093?recursive=true&limit=1000",
+  "pagination_pages": 3,
+  "complete_public_tree_entries": 2777,
+  "selection": "MP4, ground_truth, their checksum sidecars, README files, blacklists, licence; excludes PNG, overview, depth",
+  "not_a_complete_training_download": "Motion NPZ archive and be_seq.csv packaging require registered official download access. This manifest covers only publicly listed mirror files. No gated payload was fetched.",
+  "files": [
+    {
+      "path": "20240416_1_171_yogastudio_orbit_timeofday/README.md",
+      "bytes": 371,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240416_1_171_yogastudio_orbit_timeofday/README.md"
+    },
+    {
+      "path": "20240416_1_171_yogastudio_orbit_timeofday/ground_truth/20240416_1_171_yogastudio_orbit_timeofday_gt_centersubframe_exr_meta.tar.gz",
+      "bytes": 34182708,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240416_1_171_yogastudio_orbit_timeofday/ground_truth/20240416_1_171_yogastudio_orbit_timeofday_gt_centersubframe_exr_meta.tar.gz"
+    },
+    {
+      "path": "20240416_1_171_yogastudio_orbit_timeofday/ground_truth/20240416_1_171_yogastudio_orbit_timeofday_gt_centersubframe_exr_meta.tar.gz.xxh128",
+      "bytes": 110,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240416_1_171_yogastudio_orbit_timeofday/ground_truth/20240416_1_171_yogastudio_orbit_timeofday_gt_centersubframe_exr_meta.tar.gz.xxh128"
+    },
+    {
+      "path": "20240416_1_171_yogastudio_orbit_timeofday/ground_truth/20240416_1_171_yogastudio_orbit_timeofday_gt_centersubframe_exr_meta_csv.tar.gz",
+      "bytes": 7878333,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240416_1_171_yogastudio_orbit_timeofday/ground_truth/20240416_1_171_yogastudio_orbit_timeofday_gt_centersubframe_exr_meta_csv.tar.gz"
+    },
+    {
+      "path": "20240416_1_171_yogastudio_orbit_timeofday/ground_truth/20240416_1_171_yogastudio_orbit_timeofday_gt_centersubframe_exr_meta_csv.tar.gz.xxh128",
+      "bytes": 114,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240416_1_171_yogastudio_orbit_timeofday/ground_truth/20240416_1_171_yogastudio_orbit_timeofday_gt_centersubframe_exr_meta_csv.tar.gz.xxh128"
+    },
+    {
+      "path": "20240416_1_171_yogastudio_orbit_timeofday/mp4/20240416_1_171_yogastudio_orbit_timeofday_mp4.tar",
+      "bytes": 2405939200,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240416_1_171_yogastudio_orbit_timeofday/mp4/20240416_1_171_yogastudio_orbit_timeofday_mp4.tar"
+    },
+    {
+      "path": "20240416_1_171_yogastudio_orbit_timeofday/mp4/20240416_1_171_yogastudio_orbit_timeofday_mp4.tar.xxh128",
+      "bytes": 84,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240416_1_171_yogastudio_orbit_timeofday/mp4/20240416_1_171_yogastudio_orbit_timeofday_mp4.tar.xxh128"
+    },
+    {
+      "path": "20240423_1_171_yogastudio_staticloc_timeofday/README.md",
+      "bytes": 369,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240423_1_171_yogastudio_staticloc_timeofday/README.md"
+    },
+    {
+      "path": "20240423_1_171_yogastudio_staticloc_timeofday/ground_truth/20240423_1_171_yogastudio_staticloc_timeofday_gt_centersubframe_exr_meta.tar.gz",
+      "bytes": 19196897,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240423_1_171_yogastudio_staticloc_timeofday/ground_truth/20240423_1_171_yogastudio_staticloc_timeofday_gt_centersubframe_exr_meta.tar.gz"
+    },
+    {
+      "path": "20240423_1_171_yogastudio_staticloc_timeofday/ground_truth/20240423_1_171_yogastudio_staticloc_timeofday_gt_centersubframe_exr_meta.tar.gz.xxh128",
+      "bytes": 114,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240423_1_171_yogastudio_staticloc_timeofday/ground_truth/20240423_1_171_yogastudio_staticloc_timeofday_gt_centersubframe_exr_meta.tar.gz.xxh128"
+    },
+    {
+      "path": "20240423_1_171_yogastudio_staticloc_timeofday/ground_truth/20240423_1_171_yogastudio_staticloc_timeofday_gt_centersubframe_exr_meta_csv.tar.gz",
+      "bytes": 3012363,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240423_1_171_yogastudio_staticloc_timeofday/ground_truth/20240423_1_171_yogastudio_staticloc_timeofday_gt_centersubframe_exr_meta_csv.tar.gz"
+    },
+    {
+      "path": "20240423_1_171_yogastudio_staticloc_timeofday/ground_truth/20240423_1_171_yogastudio_staticloc_timeofday_gt_centersubframe_exr_meta_csv.tar.gz.xxh128",
+      "bytes": 118,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240423_1_171_yogastudio_staticloc_timeofday/ground_truth/20240423_1_171_yogastudio_staticloc_timeofday_gt_centersubframe_exr_meta_csv.tar.gz.xxh128"
+    },
+    {
+      "path": "20240423_1_171_yogastudio_staticloc_timeofday/mp4/20240423_1_171_yogastudio_staticloc_timeofday_mp4.tar",
+      "bytes": 1815531520,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240423_1_171_yogastudio_staticloc_timeofday/mp4/20240423_1_171_yogastudio_staticloc_timeofday_mp4.tar"
+    },
+    {
+      "path": "20240423_1_171_yogastudio_staticloc_timeofday/mp4/20240423_1_171_yogastudio_staticloc_timeofday_mp4.tar.xxh128",
+      "bytes": 88,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240423_1_171_yogastudio_staticloc_timeofday/mp4/20240423_1_171_yogastudio_staticloc_timeofday_mp4.tar.xxh128"
+    },
+    {
+      "path": "20240424_1_171_citysample_orbit/README.md",
+      "bytes": 358,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240424_1_171_citysample_orbit/README.md"
+    },
+    {
+      "path": "20240424_1_171_citysample_orbit/ground_truth/20240424_1_171_citysample_orbit_gt_centersubframe_exr_meta.tar.gz",
+      "bytes": 34079199,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240424_1_171_citysample_orbit/ground_truth/20240424_1_171_citysample_orbit_gt_centersubframe_exr_meta.tar.gz"
+    },
+    {
+      "path": "20240424_1_171_citysample_orbit/ground_truth/20240424_1_171_citysample_orbit_gt_centersubframe_exr_meta.tar.gz.xxh128",
+      "bytes": 100,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240424_1_171_citysample_orbit/ground_truth/20240424_1_171_citysample_orbit_gt_centersubframe_exr_meta.tar.gz.xxh128"
+    },
+    {
+      "path": "20240424_1_171_citysample_orbit/ground_truth/20240424_1_171_citysample_orbit_gt_centersubframe_exr_meta_csv.tar.gz",
+      "bytes": 7744738,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240424_1_171_citysample_orbit/ground_truth/20240424_1_171_citysample_orbit_gt_centersubframe_exr_meta_csv.tar.gz"
+    },
+    {
+      "path": "20240424_1_171_citysample_orbit/ground_truth/20240424_1_171_citysample_orbit_gt_centersubframe_exr_meta_csv.tar.gz.xxh128",
+      "bytes": 104,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240424_1_171_citysample_orbit/ground_truth/20240424_1_171_citysample_orbit_gt_centersubframe_exr_meta_csv.tar.gz.xxh128"
+    },
+    {
+      "path": "20240424_1_171_citysample_orbit/mp4/20240424_1_171_citysample_orbit_mp4.tar",
+      "bytes": 4769341440,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240424_1_171_citysample_orbit/mp4/20240424_1_171_citysample_orbit_mp4.tar"
+    },
+    {
+      "path": "20240424_1_171_citysample_orbit/mp4/20240424_1_171_citysample_orbit_mp4.tar.xxh128",
+      "bytes": 74,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240424_1_171_citysample_orbit/mp4/20240424_1_171_citysample_orbit_mp4.tar.xxh128"
+    },
+    {
+      "path": "20240425_1_171_citysample_dolly/README.md",
+      "bytes": 427,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240425_1_171_citysample_dolly/README.md"
+    },
+    {
+      "path": "20240425_1_171_citysample_dolly/ground_truth/20240425_1_171_citysample_dolly_gt_centersubframe_exr_meta.tar.gz",
+      "bytes": 32411190,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240425_1_171_citysample_dolly/ground_truth/20240425_1_171_citysample_dolly_gt_centersubframe_exr_meta.tar.gz"
+    },
+    {
+      "path": "20240425_1_171_citysample_dolly/ground_truth/20240425_1_171_citysample_dolly_gt_centersubframe_exr_meta.tar.gz.xxh128",
+      "bytes": 100,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240425_1_171_citysample_dolly/ground_truth/20240425_1_171_citysample_dolly_gt_centersubframe_exr_meta.tar.gz.xxh128"
+    },
+    {
+      "path": "20240425_1_171_citysample_dolly/ground_truth/20240425_1_171_citysample_dolly_gt_centersubframe_exr_meta_csv.tar.gz",
+      "bytes": 7358680,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240425_1_171_citysample_dolly/ground_truth/20240425_1_171_citysample_dolly_gt_centersubframe_exr_meta_csv.tar.gz"
+    },
+    {
+      "path": "20240425_1_171_citysample_dolly/ground_truth/20240425_1_171_citysample_dolly_gt_centersubframe_exr_meta_csv.tar.gz.xxh128",
+      "bytes": 104,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240425_1_171_citysample_dolly/ground_truth/20240425_1_171_citysample_dolly_gt_centersubframe_exr_meta_csv.tar.gz.xxh128"
+    },
+    {
+      "path": "20240425_1_171_citysample_dolly/mp4/20240425_1_171_citysample_dolly_mp4.tar",
+      "bytes": 3658557440,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240425_1_171_citysample_dolly/mp4/20240425_1_171_citysample_dolly_mp4.tar"
+    },
+    {
+      "path": "20240425_1_171_citysample_dolly/mp4/20240425_1_171_citysample_dolly_mp4.tar.xxh128",
+      "bytes": 74,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240425_1_171_citysample_dolly/mp4/20240425_1_171_citysample_dolly_mp4.tar.xxh128"
+    },
+    {
+      "path": "20240425_1_171_hdri/README.md",
+      "bytes": 383,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240425_1_171_hdri/README.md"
+    },
+    {
+      "path": "20240425_1_171_hdri/ground_truth/20240425_1_171_hdri_gt_centersubframe_exr_meta.tar.gz",
+      "bytes": 17132190,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240425_1_171_hdri/ground_truth/20240425_1_171_hdri_gt_centersubframe_exr_meta.tar.gz"
+    },
+    {
+      "path": "20240425_1_171_hdri/ground_truth/20240425_1_171_hdri_gt_centersubframe_exr_meta.tar.gz.xxh128",
+      "bytes": 88,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240425_1_171_hdri/ground_truth/20240425_1_171_hdri_gt_centersubframe_exr_meta.tar.gz.xxh128"
+    },
+    {
+      "path": "20240425_1_171_hdri/ground_truth/20240425_1_171_hdri_gt_centersubframe_exr_meta_csv.tar.gz",
+      "bytes": 2919079,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240425_1_171_hdri/ground_truth/20240425_1_171_hdri_gt_centersubframe_exr_meta_csv.tar.gz"
+    },
+    {
+      "path": "20240425_1_171_hdri/ground_truth/20240425_1_171_hdri_gt_centersubframe_exr_meta_csv.tar.gz.xxh128",
+      "bytes": 92,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240425_1_171_hdri/ground_truth/20240425_1_171_hdri_gt_centersubframe_exr_meta_csv.tar.gz.xxh128"
+    },
+    {
+      "path": "20240425_1_171_hdri/mp4/20240425_1_171_hdri_mp4.tar",
+      "bytes": 681861120,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240425_1_171_hdri/mp4/20240425_1_171_hdri_mp4.tar"
+    },
+    {
+      "path": "20240425_1_171_hdri/mp4/20240425_1_171_hdri_mp4.tar.xxh128",
+      "bytes": 62,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240425_1_171_hdri/mp4/20240425_1_171_hdri_mp4.tar.xxh128"
+    },
+    {
+      "path": "20240426_5_100_citysample_orbit/README.md",
+      "bytes": 346,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240426_5_100_citysample_orbit/README.md"
+    },
+    {
+      "path": "20240426_5_100_citysample_orbit/ground_truth/20240426_5_100_citysample_orbit_gt_centersubframe_exr_meta.tar.gz",
+      "bytes": 12509820,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240426_5_100_citysample_orbit/ground_truth/20240426_5_100_citysample_orbit_gt_centersubframe_exr_meta.tar.gz"
+    },
+    {
+      "path": "20240426_5_100_citysample_orbit/ground_truth/20240426_5_100_citysample_orbit_gt_centersubframe_exr_meta.tar.gz.xxh128",
+      "bytes": 100,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240426_5_100_citysample_orbit/ground_truth/20240426_5_100_citysample_orbit_gt_centersubframe_exr_meta.tar.gz.xxh128"
+    },
+    {
+      "path": "20240426_5_100_citysample_orbit/ground_truth/20240426_5_100_citysample_orbit_gt_centersubframe_exr_meta_csv.tar.gz",
+      "bytes": 2870037,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240426_5_100_citysample_orbit/ground_truth/20240426_5_100_citysample_orbit_gt_centersubframe_exr_meta_csv.tar.gz"
+    },
+    {
+      "path": "20240426_5_100_citysample_orbit/ground_truth/20240426_5_100_citysample_orbit_gt_centersubframe_exr_meta_csv.tar.gz.xxh128",
+      "bytes": 104,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240426_5_100_citysample_orbit/ground_truth/20240426_5_100_citysample_orbit_gt_centersubframe_exr_meta_csv.tar.gz.xxh128"
+    },
+    {
+      "path": "20240426_5_100_citysample_orbit/mp4/20240426_5_100_citysample_orbit_mp4.tar",
+      "bytes": 1788416000,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240426_5_100_citysample_orbit/mp4/20240426_5_100_citysample_orbit_mp4.tar"
+    },
+    {
+      "path": "20240426_5_100_citysample_orbit/mp4/20240426_5_100_citysample_orbit_mp4.tar.xxh128",
+      "bytes": 74,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240426_5_100_citysample_orbit/mp4/20240426_5_100_citysample_orbit_mp4.tar.xxh128"
+    },
+    {
+      "path": "20240429_1_171_stadium/README.md",
+      "bytes": 318,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240429_1_171_stadium/README.md"
+    },
+    {
+      "path": "20240429_1_171_stadium/ground_truth/20240429_1_171_stadium_gt_centersubframe_exr_meta.tar.gz",
+      "bytes": 17343689,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240429_1_171_stadium/ground_truth/20240429_1_171_stadium_gt_centersubframe_exr_meta.tar.gz"
+    },
+    {
+      "path": "20240429_1_171_stadium/ground_truth/20240429_1_171_stadium_gt_centersubframe_exr_meta.tar.gz.xxh128",
+      "bytes": 91,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240429_1_171_stadium/ground_truth/20240429_1_171_stadium_gt_centersubframe_exr_meta.tar.gz.xxh128"
+    },
+    {
+      "path": "20240429_1_171_stadium/ground_truth/20240429_1_171_stadium_gt_centersubframe_exr_meta_csv.tar.gz",
+      "bytes": 2915218,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240429_1_171_stadium/ground_truth/20240429_1_171_stadium_gt_centersubframe_exr_meta_csv.tar.gz"
+    },
+    {
+      "path": "20240429_1_171_stadium/ground_truth/20240429_1_171_stadium_gt_centersubframe_exr_meta_csv.tar.gz.xxh128",
+      "bytes": 95,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240429_1_171_stadium/ground_truth/20240429_1_171_stadium_gt_centersubframe_exr_meta_csv.tar.gz.xxh128"
+    },
+    {
+      "path": "20240429_1_171_stadium/mp4/20240429_1_171_stadium_mp4.tar",
+      "bytes": 1250508800,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240429_1_171_stadium/mp4/20240429_1_171_stadium_mp4.tar"
+    },
+    {
+      "path": "20240429_1_171_stadium/mp4/20240429_1_171_stadium_mp4.tar.xxh128",
+      "bytes": 65,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240429_1_171_stadium/mp4/20240429_1_171_stadium_mp4.tar.xxh128"
+    },
+    {
+      "path": "20240502_5_200_citysample_dolly/README.md",
+      "bytes": 367,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240502_5_200_citysample_dolly/README.md"
+    },
+    {
+      "path": "20240502_5_200_citysample_dolly/ground_truth/20240502_5_200_citysample_dolly_gt_centersubframe_exr_meta.tar.gz",
+      "bytes": 24226319,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240502_5_200_citysample_dolly/ground_truth/20240502_5_200_citysample_dolly_gt_centersubframe_exr_meta.tar.gz"
+    },
+    {
+      "path": "20240502_5_200_citysample_dolly/ground_truth/20240502_5_200_citysample_dolly_gt_centersubframe_exr_meta.tar.gz.xxh128",
+      "bytes": 100,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240502_5_200_citysample_dolly/ground_truth/20240502_5_200_citysample_dolly_gt_centersubframe_exr_meta.tar.gz.xxh128"
+    },
+    {
+      "path": "20240502_5_200_citysample_dolly/ground_truth/20240502_5_200_citysample_dolly_gt_centersubframe_exr_meta_csv.tar.gz",
+      "bytes": 5558499,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240502_5_200_citysample_dolly/ground_truth/20240502_5_200_citysample_dolly_gt_centersubframe_exr_meta_csv.tar.gz"
+    },
+    {
+      "path": "20240502_5_200_citysample_dolly/ground_truth/20240502_5_200_citysample_dolly_gt_centersubframe_exr_meta_csv.tar.gz.xxh128",
+      "bytes": 104,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240502_5_200_citysample_dolly/ground_truth/20240502_5_200_citysample_dolly_gt_centersubframe_exr_meta_csv.tar.gz.xxh128"
+    },
+    {
+      "path": "20240502_5_200_citysample_dolly/mp4/20240502_5_200_citysample_dolly_mp4.tar",
+      "bytes": 2816491520,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240502_5_200_citysample_dolly/mp4/20240502_5_200_citysample_dolly_mp4.tar"
+    },
+    {
+      "path": "20240502_5_200_citysample_dolly/mp4/20240502_5_200_citysample_dolly_mp4.tar.xxh128",
+      "bytes": 74,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240502_5_200_citysample_dolly/mp4/20240502_5_200_citysample_dolly_mp4.tar.xxh128"
+    },
+    {
+      "path": "20240506_10_200_hdri/README.md",
+      "bytes": 314,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240506_10_200_hdri/README.md"
+    },
+    {
+      "path": "20240506_10_200_hdri/ground_truth/20240506_10_200_hdri_gt_centersubframe_exr_meta.tar.gz",
+      "bytes": 21030933,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240506_10_200_hdri/ground_truth/20240506_10_200_hdri_gt_centersubframe_exr_meta.tar.gz"
+    },
+    {
+      "path": "20240506_10_200_hdri/ground_truth/20240506_10_200_hdri_gt_centersubframe_exr_meta.tar.gz.xxh128",
+      "bytes": 89,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240506_10_200_hdri/ground_truth/20240506_10_200_hdri_gt_centersubframe_exr_meta.tar.gz.xxh128"
+    },
+    {
+      "path": "20240506_10_200_hdri/ground_truth/20240506_10_200_hdri_gt_centersubframe_exr_meta_csv.tar.gz",
+      "bytes": 5130186,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240506_10_200_hdri/ground_truth/20240506_10_200_hdri_gt_centersubframe_exr_meta_csv.tar.gz"
+    },
+    {
+      "path": "20240506_10_200_hdri/ground_truth/20240506_10_200_hdri_gt_centersubframe_exr_meta_csv.tar.gz.xxh128",
+      "bytes": 93,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240506_10_200_hdri/ground_truth/20240506_10_200_hdri_gt_centersubframe_exr_meta_csv.tar.gz.xxh128"
+    },
+    {
+      "path": "20240506_10_200_hdri/mp4/20240506_10_200_hdri_mp4.tar",
+      "bytes": 906076160,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240506_10_200_hdri/mp4/20240506_10_200_hdri_mp4.tar"
+    },
+    {
+      "path": "20240506_10_200_hdri/mp4/20240506_10_200_hdri_mp4.tar.xxh128",
+      "bytes": 63,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240506_10_200_hdri/mp4/20240506_10_200_hdri_mp4.tar.xxh128"
+    },
+    {
+      "path": "20240506_5_200_citysample_orbit/README.md",
+      "bytes": 346,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240506_5_200_citysample_orbit/README.md"
+    },
+    {
+      "path": "20240506_5_200_citysample_orbit/ground_truth/20240506_5_200_citysample_orbit_gt_centersubframe_exr_meta.tar.gz",
+      "bytes": 24903392,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240506_5_200_citysample_orbit/ground_truth/20240506_5_200_citysample_orbit_gt_centersubframe_exr_meta.tar.gz"
+    },
+    {
+      "path": "20240506_5_200_citysample_orbit/ground_truth/20240506_5_200_citysample_orbit_gt_centersubframe_exr_meta.tar.gz.xxh128",
+      "bytes": 100,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240506_5_200_citysample_orbit/ground_truth/20240506_5_200_citysample_orbit_gt_centersubframe_exr_meta.tar.gz.xxh128"
+    },
+    {
+      "path": "20240506_5_200_citysample_orbit/ground_truth/20240506_5_200_citysample_orbit_gt_centersubframe_exr_meta_csv.tar.gz",
+      "bytes": 5714516,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240506_5_200_citysample_orbit/ground_truth/20240506_5_200_citysample_orbit_gt_centersubframe_exr_meta_csv.tar.gz"
+    },
+    {
+      "path": "20240506_5_200_citysample_orbit/ground_truth/20240506_5_200_citysample_orbit_gt_centersubframe_exr_meta_csv.tar.gz.xxh128",
+      "bytes": 104,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240506_5_200_citysample_orbit/ground_truth/20240506_5_200_citysample_orbit_gt_centersubframe_exr_meta_csv.tar.gz.xxh128"
+    },
+    {
+      "path": "20240506_5_200_citysample_orbit/mp4/20240506_5_200_citysample_orbit_mp4.tar",
+      "bytes": 3517685760,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240506_5_200_citysample_orbit/mp4/20240506_5_200_citysample_orbit_mp4.tar"
+    },
+    {
+      "path": "20240506_5_200_citysample_orbit/mp4/20240506_5_200_citysample_orbit_mp4.tar.xxh128",
+      "bytes": 74,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240506_5_200_citysample_orbit/mp4/20240506_5_200_citysample_orbit_mp4.tar.xxh128"
+    },
+    {
+      "path": "20240507_5_200_citysample_dollyz/README.md",
+      "bytes": 367,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240507_5_200_citysample_dollyz/README.md"
+    },
+    {
+      "path": "20240507_5_200_citysample_dollyz/ground_truth/20240507_5_200_citysample_dollyz_gt_centersubframe_exr_meta.tar.gz",
+      "bytes": 24477860,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240507_5_200_citysample_dollyz/ground_truth/20240507_5_200_citysample_dollyz_gt_centersubframe_exr_meta.tar.gz"
+    },
+    {
+      "path": "20240507_5_200_citysample_dollyz/ground_truth/20240507_5_200_citysample_dollyz_gt_centersubframe_exr_meta.tar.gz.xxh128",
+      "bytes": 101,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240507_5_200_citysample_dollyz/ground_truth/20240507_5_200_citysample_dollyz_gt_centersubframe_exr_meta.tar.gz.xxh128"
+    },
+    {
+      "path": "20240507_5_200_citysample_dollyz/ground_truth/20240507_5_200_citysample_dollyz_gt_centersubframe_exr_meta_csv.tar.gz",
+      "bytes": 5612829,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240507_5_200_citysample_dollyz/ground_truth/20240507_5_200_citysample_dollyz_gt_centersubframe_exr_meta_csv.tar.gz"
+    },
+    {
+      "path": "20240507_5_200_citysample_dollyz/ground_truth/20240507_5_200_citysample_dollyz_gt_centersubframe_exr_meta_csv.tar.gz.xxh128",
+      "bytes": 105,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240507_5_200_citysample_dollyz/ground_truth/20240507_5_200_citysample_dollyz_gt_centersubframe_exr_meta_csv.tar.gz.xxh128"
+    },
+    {
+      "path": "20240507_5_200_citysample_dollyz/mp4/20240507_5_200_citysample_dollyz_mp4.tar",
+      "bytes": 2052874240,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240507_5_200_citysample_dollyz/mp4/20240507_5_200_citysample_dollyz_mp4.tar"
+    },
+    {
+      "path": "20240507_5_200_citysample_dollyz/mp4/20240507_5_200_citysample_dollyz_mp4.tar.xxh128",
+      "bytes": 75,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240507_5_200_citysample_dollyz/mp4/20240507_5_200_citysample_dollyz_mp4.tar.xxh128"
+    },
+    {
+      "path": "20240514_1_1001_citysample_tracking/README.md",
+      "bytes": 367,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240514_1_1001_citysample_tracking/README.md"
+    },
+    {
+      "path": "20240514_1_1001_citysample_tracking/ground_truth/20240514_1_1001_citysample_tracking_gt_centersubframe_exr_meta.tar.gz",
+      "bytes": 64933413,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240514_1_1001_citysample_tracking/ground_truth/20240514_1_1001_citysample_tracking_gt_centersubframe_exr_meta.tar.gz"
+    },
+    {
+      "path": "20240514_1_1001_citysample_tracking/ground_truth/20240514_1_1001_citysample_tracking_gt_centersubframe_exr_meta.tar.gz.xxh128",
+      "bytes": 104,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240514_1_1001_citysample_tracking/ground_truth/20240514_1_1001_citysample_tracking_gt_centersubframe_exr_meta.tar.gz.xxh128"
+    },
+    {
+      "path": "20240514_1_1001_citysample_tracking/ground_truth/20240514_1_1001_citysample_tracking_gt_centersubframe_exr_meta_csv.tar.gz",
+      "bytes": 14785516,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240514_1_1001_citysample_tracking/ground_truth/20240514_1_1001_citysample_tracking_gt_centersubframe_exr_meta_csv.tar.gz"
+    },
+    {
+      "path": "20240514_1_1001_citysample_tracking/ground_truth/20240514_1_1001_citysample_tracking_gt_centersubframe_exr_meta_csv.tar.gz.xxh128",
+      "bytes": 108,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240514_1_1001_citysample_tracking/ground_truth/20240514_1_1001_citysample_tracking_gt_centersubframe_exr_meta_csv.tar.gz.xxh128"
+    },
+    {
+      "path": "20240514_1_1001_citysample_tracking/mp4/20240514_1_1001_citysample_tracking_mp4.tar",
+      "bytes": 8702945280,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240514_1_1001_citysample_tracking/mp4/20240514_1_1001_citysample_tracking_mp4.tar"
+    },
+    {
+      "path": "20240514_1_1001_citysample_tracking/mp4/20240514_1_1001_citysample_tracking_mp4.tar.xxh128",
+      "bytes": 78,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240514_1_1001_citysample_tracking/mp4/20240514_1_1001_citysample_tracking_mp4.tar.xxh128"
+    },
+    {
+      "path": "20240604_5_500_citysample_tracking/ground_truth/20240604_5_500_citysample_tracking_gt_centersubframe_exr_meta.tar.gz",
+      "bytes": 18884039,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240604_5_500_citysample_tracking/ground_truth/20240604_5_500_citysample_tracking_gt_centersubframe_exr_meta.tar.gz"
+    },
+    {
+      "path": "20240604_5_500_citysample_tracking/ground_truth/20240604_5_500_citysample_tracking_gt_centersubframe_exr_meta.tar.gz.xxh128",
+      "bytes": 103,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240604_5_500_citysample_tracking/ground_truth/20240604_5_500_citysample_tracking_gt_centersubframe_exr_meta.tar.gz.xxh128"
+    },
+    {
+      "path": "20240604_5_500_citysample_tracking/ground_truth/20240604_5_500_citysample_tracking_gt_centersubframe_exr_meta_csv.tar.gz",
+      "bytes": 4383943,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240604_5_500_citysample_tracking/ground_truth/20240604_5_500_citysample_tracking_gt_centersubframe_exr_meta_csv.tar.gz"
+    },
+    {
+      "path": "20240604_5_500_citysample_tracking/ground_truth/20240604_5_500_citysample_tracking_gt_centersubframe_exr_meta_csv.tar.gz.xxh128",
+      "bytes": 107,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240604_5_500_citysample_tracking/ground_truth/20240604_5_500_citysample_tracking_gt_centersubframe_exr_meta_csv.tar.gz.xxh128"
+    },
+    {
+      "path": "20240604_5_500_citysample_tracking/mp4/20240604_5_500_citysample_tracking_mp4.tar",
+      "bytes": 2478417920,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240604_5_500_citysample_tracking/mp4/20240604_5_500_citysample_tracking_mp4.tar"
+    },
+    {
+      "path": "20240604_5_500_citysample_tracking/mp4/20240604_5_500_citysample_tracking_mp4.tar.xxh128",
+      "bytes": 77,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240604_5_500_citysample_tracking/mp4/20240604_5_500_citysample_tracking_mp4.tar.xxh128"
+    },
+    {
+      "path": "20240605_3_500_busstation_tracking/ground_truth/20240605_3_500_busstation_tracking_gt_centersubframe_exr_meta.tar.gz",
+      "bytes": 21402928,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240605_3_500_busstation_tracking/ground_truth/20240605_3_500_busstation_tracking_gt_centersubframe_exr_meta.tar.gz"
+    },
+    {
+      "path": "20240605_3_500_busstation_tracking/ground_truth/20240605_3_500_busstation_tracking_gt_centersubframe_exr_meta.tar.gz.xxh128",
+      "bytes": 103,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240605_3_500_busstation_tracking/ground_truth/20240605_3_500_busstation_tracking_gt_centersubframe_exr_meta.tar.gz.xxh128"
+    },
+    {
+      "path": "20240605_3_500_busstation_tracking/ground_truth/20240605_3_500_busstation_tracking_gt_centersubframe_exr_meta_csv.tar.gz",
+      "bytes": 4970018,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240605_3_500_busstation_tracking/ground_truth/20240605_3_500_busstation_tracking_gt_centersubframe_exr_meta_csv.tar.gz"
+    },
+    {
+      "path": "20240605_3_500_busstation_tracking/ground_truth/20240605_3_500_busstation_tracking_gt_centersubframe_exr_meta_csv.tar.gz.xxh128",
+      "bytes": 107,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240605_3_500_busstation_tracking/ground_truth/20240605_3_500_busstation_tracking_gt_centersubframe_exr_meta_csv.tar.gz.xxh128"
+    },
+    {
+      "path": "20240605_3_500_busstation_tracking/mp4/20240605_3_500_busstation_tracking_mp4.tar",
+      "bytes": 1571461120,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240605_3_500_busstation_tracking/mp4/20240605_3_500_busstation_tracking_mp4.tar"
+    },
+    {
+      "path": "20240605_3_500_busstation_tracking/mp4/20240605_3_500_busstation_tracking_mp4.tar.xxh128",
+      "bytes": 77,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240605_3_500_busstation_tracking/mp4/20240605_3_500_busstation_tracking_mp4.tar.xxh128"
+    },
+    {
+      "path": "20240606_1_500_stadium_closeup/ground_truth/20240606_1_500_stadium_closeup_gt_centersubframe_exr_meta.tar.gz",
+      "bytes": 16973923,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240606_1_500_stadium_closeup/ground_truth/20240606_1_500_stadium_closeup_gt_centersubframe_exr_meta.tar.gz"
+    },
+    {
+      "path": "20240606_1_500_stadium_closeup/ground_truth/20240606_1_500_stadium_closeup_gt_centersubframe_exr_meta.tar.gz.xxh128",
+      "bytes": 99,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240606_1_500_stadium_closeup/ground_truth/20240606_1_500_stadium_closeup_gt_centersubframe_exr_meta.tar.gz.xxh128"
+    },
+    {
+      "path": "20240606_1_500_stadium_closeup/ground_truth/20240606_1_500_stadium_closeup_gt_centersubframe_exr_meta_csv.tar.gz",
+      "bytes": 2985944,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240606_1_500_stadium_closeup/ground_truth/20240606_1_500_stadium_closeup_gt_centersubframe_exr_meta_csv.tar.gz"
+    },
+    {
+      "path": "20240606_1_500_stadium_closeup/ground_truth/20240606_1_500_stadium_closeup_gt_centersubframe_exr_meta_csv.tar.gz.xxh128",
+      "bytes": 103,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240606_1_500_stadium_closeup/ground_truth/20240606_1_500_stadium_closeup_gt_centersubframe_exr_meta_csv.tar.gz.xxh128"
+    },
+    {
+      "path": "20240606_1_500_stadium_closeup/mp4/20240606_1_500_stadium_closeup_mp4.tar",
+      "bytes": 1450813440,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240606_1_500_stadium_closeup/mp4/20240606_1_500_stadium_closeup_mp4.tar"
+    },
+    {
+      "path": "20240606_1_500_stadium_closeup/mp4/20240606_1_500_stadium_closeup_mp4.tar.xxh128",
+      "bytes": 73,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240606_1_500_stadium_closeup/mp4/20240606_1_500_stadium_closeup_mp4.tar.xxh128"
+    },
+    {
+      "path": "20240606_4_250_busstation_orbit/ground_truth/20240606_4_250_busstation_orbit_gt_centersubframe_exr_meta.tar.gz",
+      "bytes": 10057728,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240606_4_250_busstation_orbit/ground_truth/20240606_4_250_busstation_orbit_gt_centersubframe_exr_meta.tar.gz"
+    },
+    {
+      "path": "20240606_4_250_busstation_orbit/ground_truth/20240606_4_250_busstation_orbit_gt_centersubframe_exr_meta.tar.gz.xxh128",
+      "bytes": 100,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240606_4_250_busstation_orbit/ground_truth/20240606_4_250_busstation_orbit_gt_centersubframe_exr_meta.tar.gz.xxh128"
+    },
+    {
+      "path": "20240606_4_250_busstation_orbit/ground_truth/20240606_4_250_busstation_orbit_gt_centersubframe_exr_meta_csv.tar.gz",
+      "bytes": 2363802,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240606_4_250_busstation_orbit/ground_truth/20240606_4_250_busstation_orbit_gt_centersubframe_exr_meta_csv.tar.gz"
+    },
+    {
+      "path": "20240606_4_250_busstation_orbit/ground_truth/20240606_4_250_busstation_orbit_gt_centersubframe_exr_meta_csv.tar.gz.xxh128",
+      "bytes": 104,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240606_4_250_busstation_orbit/ground_truth/20240606_4_250_busstation_orbit_gt_centersubframe_exr_meta_csv.tar.gz.xxh128"
+    },
+    {
+      "path": "20240606_4_250_busstation_orbit/mp4/20240606_4_250_busstation_orbit_mp4.tar",
+      "bytes": 861982720,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240606_4_250_busstation_orbit/mp4/20240606_4_250_busstation_orbit_mp4.tar"
+    },
+    {
+      "path": "20240606_4_250_busstation_orbit/mp4/20240606_4_250_busstation_orbit_mp4.tar.xxh128",
+      "bytes": 74,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240606_4_250_busstation_orbit/mp4/20240606_4_250_busstation_orbit_mp4.tar.xxh128"
+    },
+    {
+      "path": "20240611_5_200_citysamplenight_dolly/ground_truth/20240611_5_200_citysamplenight_dolly_gt_centersubframe_exr_meta.tar.gz",
+      "bytes": 7564597,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240611_5_200_citysamplenight_dolly/ground_truth/20240611_5_200_citysamplenight_dolly_gt_centersubframe_exr_meta.tar.gz"
+    },
+    {
+      "path": "20240611_5_200_citysamplenight_dolly/ground_truth/20240611_5_200_citysamplenight_dolly_gt_centersubframe_exr_meta.tar.gz.xxh128",
+      "bytes": 105,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240611_5_200_citysamplenight_dolly/ground_truth/20240611_5_200_citysamplenight_dolly_gt_centersubframe_exr_meta.tar.gz.xxh128"
+    },
+    {
+      "path": "20240611_5_200_citysamplenight_dolly/ground_truth/20240611_5_200_citysamplenight_dolly_gt_centersubframe_exr_meta_csv.tar.gz",
+      "bytes": 1785395,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240611_5_200_citysamplenight_dolly/ground_truth/20240611_5_200_citysamplenight_dolly_gt_centersubframe_exr_meta_csv.tar.gz"
+    },
+    {
+      "path": "20240611_5_200_citysamplenight_dolly/ground_truth/20240611_5_200_citysamplenight_dolly_gt_centersubframe_exr_meta_csv.tar.gz.xxh128",
+      "bytes": 109,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240611_5_200_citysamplenight_dolly/ground_truth/20240611_5_200_citysamplenight_dolly_gt_centersubframe_exr_meta_csv.tar.gz.xxh128"
+    },
+    {
+      "path": "20240611_5_200_citysamplenight_dolly/mp4/20240611_5_200_citysamplenight_dolly_mp4.tar",
+      "bytes": 800604160,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240611_5_200_citysamplenight_dolly/mp4/20240611_5_200_citysamplenight_dolly_mp4.tar"
+    },
+    {
+      "path": "20240611_5_200_citysamplenight_dolly/mp4/20240611_5_200_citysamplenight_dolly_mp4.tar.xxh128",
+      "bytes": 79,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240611_5_200_citysamplenight_dolly/mp4/20240611_5_200_citysamplenight_dolly_mp4.tar.xxh128"
+    },
+    {
+      "path": "20240611_5_250_archmodelsvol8_dolly/ground_truth/20240611_5_250_archmodelsvol8_dolly_gt_centersubframe_exr_meta.tar.gz",
+      "bytes": 9249767,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240611_5_250_archmodelsvol8_dolly/ground_truth/20240611_5_250_archmodelsvol8_dolly_gt_centersubframe_exr_meta.tar.gz"
+    },
+    {
+      "path": "20240611_5_250_archmodelsvol8_dolly/ground_truth/20240611_5_250_archmodelsvol8_dolly_gt_centersubframe_exr_meta.tar.gz.xxh128",
+      "bytes": 104,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240611_5_250_archmodelsvol8_dolly/ground_truth/20240611_5_250_archmodelsvol8_dolly_gt_centersubframe_exr_meta.tar.gz.xxh128"
+    },
+    {
+      "path": "20240611_5_250_archmodelsvol8_dolly/ground_truth/20240611_5_250_archmodelsvol8_dolly_gt_centersubframe_exr_meta_csv.tar.gz",
+      "bytes": 2194035,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240611_5_250_archmodelsvol8_dolly/ground_truth/20240611_5_250_archmodelsvol8_dolly_gt_centersubframe_exr_meta_csv.tar.gz"
+    },
+    {
+      "path": "20240611_5_250_archmodelsvol8_dolly/ground_truth/20240611_5_250_archmodelsvol8_dolly_gt_centersubframe_exr_meta_csv.tar.gz.xxh128",
+      "bytes": 108,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240611_5_250_archmodelsvol8_dolly/ground_truth/20240611_5_250_archmodelsvol8_dolly_gt_centersubframe_exr_meta_csv.tar.gz.xxh128"
+    },
+    {
+      "path": "20240611_5_250_archmodelsvol8_dolly/mp4/20240611_5_250_archmodelsvol8_dolly_mp4.tar",
+      "bytes": 1896325120,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240611_5_250_archmodelsvol8_dolly/mp4/20240611_5_250_archmodelsvol8_dolly_mp4.tar"
+    },
+    {
+      "path": "20240611_5_250_archmodelsvol8_dolly/mp4/20240611_5_250_archmodelsvol8_dolly_mp4.tar.xxh128",
+      "bytes": 78,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240611_5_250_archmodelsvol8_dolly/mp4/20240611_5_250_archmodelsvol8_dolly_mp4.tar.xxh128"
+    },
+    {
+      "path": "20240613_1_200_hdri/ground_truth/20240613_1_200_hdri_gt_centersubframe_exr_meta.tar.gz",
+      "bytes": 11717031,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240613_1_200_hdri/ground_truth/20240613_1_200_hdri_gt_centersubframe_exr_meta.tar.gz"
+    },
+    {
+      "path": "20240613_1_200_hdri/ground_truth/20240613_1_200_hdri_gt_centersubframe_exr_meta.tar.gz.xxh128",
+      "bytes": 88,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240613_1_200_hdri/ground_truth/20240613_1_200_hdri_gt_centersubframe_exr_meta.tar.gz.xxh128"
+    },
+    {
+      "path": "20240613_1_200_hdri/ground_truth/20240613_1_200_hdri_gt_centersubframe_exr_meta_csv.tar.gz",
+      "bytes": 2831851,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240613_1_200_hdri/ground_truth/20240613_1_200_hdri_gt_centersubframe_exr_meta_csv.tar.gz"
+    },
+    {
+      "path": "20240613_1_200_hdri/ground_truth/20240613_1_200_hdri_gt_centersubframe_exr_meta_csv.tar.gz.xxh128",
+      "bytes": 92,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240613_1_200_hdri/ground_truth/20240613_1_200_hdri_gt_centersubframe_exr_meta_csv.tar.gz.xxh128"
+    },
+    {
+      "path": "20240613_1_200_hdri/mp4/20240613_1_200_hdri_mp4.tar",
+      "bytes": 476477440,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240613_1_200_hdri/mp4/20240613_1_200_hdri_mp4.tar"
+    },
+    {
+      "path": "20240613_1_200_hdri/mp4/20240613_1_200_hdri_mp4.tar.xxh128",
+      "bytes": 62,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240613_1_200_hdri/mp4/20240613_1_200_hdri_mp4.tar.xxh128"
+    },
+    {
+      "path": "20240614_1_300_hdri/ground_truth/20240614_1_300_hdri_gt_centersubframe_exr_meta.tar.gz",
+      "bytes": 10422917,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240614_1_300_hdri/ground_truth/20240614_1_300_hdri_gt_centersubframe_exr_meta.tar.gz"
+    },
+    {
+      "path": "20240614_1_300_hdri/ground_truth/20240614_1_300_hdri_gt_centersubframe_exr_meta.tar.gz.xxh128",
+      "bytes": 88,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240614_1_300_hdri/ground_truth/20240614_1_300_hdri_gt_centersubframe_exr_meta.tar.gz.xxh128"
+    },
+    {
+      "path": "20240614_1_300_hdri/ground_truth/20240614_1_300_hdri_gt_centersubframe_exr_meta_csv.tar.gz",
+      "bytes": 1842854,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240614_1_300_hdri/ground_truth/20240614_1_300_hdri_gt_centersubframe_exr_meta_csv.tar.gz"
+    },
+    {
+      "path": "20240614_1_300_hdri/ground_truth/20240614_1_300_hdri_gt_centersubframe_exr_meta_csv.tar.gz.xxh128",
+      "bytes": 92,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240614_1_300_hdri/ground_truth/20240614_1_300_hdri_gt_centersubframe_exr_meta_csv.tar.gz.xxh128"
+    },
+    {
+      "path": "20240614_1_300_hdri/mp4/20240614_1_300_hdri_mp4.tar",
+      "bytes": 944885760,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240614_1_300_hdri/mp4/20240614_1_300_hdri_mp4.tar"
+    },
+    {
+      "path": "20240614_1_300_hdri/mp4/20240614_1_300_hdri_mp4.tar.xxh128",
+      "bytes": 62,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240614_1_300_hdri/mp4/20240614_1_300_hdri_mp4.tar.xxh128"
+    },
+    {
+      "path": "20240614_5_200_citysamplenight_tracking/ground_truth/20240614_5_200_citysamplenight_tracking_gt_centersubframe_exr_meta.tar.gz",
+      "bytes": 7603459,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240614_5_200_citysamplenight_tracking/ground_truth/20240614_5_200_citysamplenight_tracking_gt_centersubframe_exr_meta.tar.gz"
+    },
+    {
+      "path": "20240614_5_200_citysamplenight_tracking/ground_truth/20240614_5_200_citysamplenight_tracking_gt_centersubframe_exr_meta.tar.gz.xxh128",
+      "bytes": 108,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240614_5_200_citysamplenight_tracking/ground_truth/20240614_5_200_citysamplenight_tracking_gt_centersubframe_exr_meta.tar.gz.xxh128"
+    },
+    {
+      "path": "20240614_5_200_citysamplenight_tracking/ground_truth/20240614_5_200_citysamplenight_tracking_gt_centersubframe_exr_meta_csv.tar.gz",
+      "bytes": 1769517,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240614_5_200_citysamplenight_tracking/ground_truth/20240614_5_200_citysamplenight_tracking_gt_centersubframe_exr_meta_csv.tar.gz"
+    },
+    {
+      "path": "20240614_5_200_citysamplenight_tracking/ground_truth/20240614_5_200_citysamplenight_tracking_gt_centersubframe_exr_meta_csv.tar.gz.xxh128",
+      "bytes": 112,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240614_5_200_citysamplenight_tracking/ground_truth/20240614_5_200_citysamplenight_tracking_gt_centersubframe_exr_meta_csv.tar.gz.xxh128"
+    },
+    {
+      "path": "20240614_5_200_citysamplenight_tracking/mp4/20240614_5_200_citysamplenight_tracking_mp4.tar",
+      "bytes": 839219200,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240614_5_200_citysamplenight_tracking/mp4/20240614_5_200_citysamplenight_tracking_mp4.tar"
+    },
+    {
+      "path": "20240614_5_200_citysamplenight_tracking/mp4/20240614_5_200_citysamplenight_tracking_mp4.tar.xxh128",
+      "bytes": 82,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240614_5_200_citysamplenight_tracking/mp4/20240614_5_200_citysamplenight_tracking_mp4.tar.xxh128"
+    },
+    {
+      "path": "20240617_10_500_hdri/ground_truth/20240617_10_500_hdri_gt_centersubframe_exr_meta.tar.gz",
+      "bytes": 16475121,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240617_10_500_hdri/ground_truth/20240617_10_500_hdri_gt_centersubframe_exr_meta.tar.gz"
+    },
+    {
+      "path": "20240617_10_500_hdri/ground_truth/20240617_10_500_hdri_gt_centersubframe_exr_meta.tar.gz.xxh128",
+      "bytes": 89,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240617_10_500_hdri/ground_truth/20240617_10_500_hdri_gt_centersubframe_exr_meta.tar.gz.xxh128"
+    },
+    {
+      "path": "20240617_10_500_hdri/ground_truth/20240617_10_500_hdri_gt_centersubframe_exr_meta_csv.tar.gz",
+      "bytes": 4168899,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240617_10_500_hdri/ground_truth/20240617_10_500_hdri_gt_centersubframe_exr_meta_csv.tar.gz"
+    },
+    {
+      "path": "20240617_10_500_hdri/ground_truth/20240617_10_500_hdri_gt_centersubframe_exr_meta_csv.tar.gz.xxh128",
+      "bytes": 93,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240617_10_500_hdri/ground_truth/20240617_10_500_hdri_gt_centersubframe_exr_meta_csv.tar.gz.xxh128"
+    },
+    {
+      "path": "20240617_10_500_hdri/mp4/20240617_10_500_hdri_mp4.tar",
+      "bytes": 840519680,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240617_10_500_hdri/mp4/20240617_10_500_hdri_mp4.tar"
+    },
+    {
+      "path": "20240617_10_500_hdri/mp4/20240617_10_500_hdri_mp4.tar.xxh128",
+      "bytes": 63,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240617_10_500_hdri/mp4/20240617_10_500_hdri_mp4.tar.xxh128"
+    },
+    {
+      "path": "20240618_1_500_ai0805_orbit/ground_truth/20240618_1_500_ai0805_orbit_gt_centersubframe_exr_meta.tar.gz",
+      "bytes": 30613122,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240618_1_500_ai0805_orbit/ground_truth/20240618_1_500_ai0805_orbit_gt_centersubframe_exr_meta.tar.gz"
+    },
+    {
+      "path": "20240618_1_500_ai0805_orbit/ground_truth/20240618_1_500_ai0805_orbit_gt_centersubframe_exr_meta.tar.gz.xxh128",
+      "bytes": 96,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240618_1_500_ai0805_orbit/ground_truth/20240618_1_500_ai0805_orbit_gt_centersubframe_exr_meta.tar.gz.xxh128"
+    },
+    {
+      "path": "20240618_1_500_ai0805_orbit/ground_truth/20240618_1_500_ai0805_orbit_gt_centersubframe_exr_meta_csv.tar.gz",
+      "bytes": 7139492,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240618_1_500_ai0805_orbit/ground_truth/20240618_1_500_ai0805_orbit_gt_centersubframe_exr_meta_csv.tar.gz"
+    },
+    {
+      "path": "20240618_1_500_ai0805_orbit/ground_truth/20240618_1_500_ai0805_orbit_gt_centersubframe_exr_meta_csv.tar.gz.xxh128",
+      "bytes": 100,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240618_1_500_ai0805_orbit/ground_truth/20240618_1_500_ai0805_orbit_gt_centersubframe_exr_meta_csv.tar.gz.xxh128"
+    },
+    {
+      "path": "20240618_1_500_ai0805_orbit/mp4/20240618_1_500_ai0805_orbit_mp4.tar",
+      "bytes": 4625029120,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240618_1_500_ai0805_orbit/mp4/20240618_1_500_ai0805_orbit_mp4.tar"
+    },
+    {
+      "path": "20240618_1_500_ai0805_orbit/mp4/20240618_1_500_ai0805_orbit_mp4.tar.xxh128",
+      "bytes": 70,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240618_1_500_ai0805_orbit/mp4/20240618_1_500_ai0805_orbit_mp4.tar.xxh128"
+    },
+    {
+      "path": "20240619_1_250_ai1004_tracking/ground_truth/20240619_1_250_ai1004_tracking_gt_centersubframe_exr_meta.tar.gz",
+      "bytes": 16876827,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240619_1_250_ai1004_tracking/ground_truth/20240619_1_250_ai1004_tracking_gt_centersubframe_exr_meta.tar.gz"
+    },
+    {
+      "path": "20240619_1_250_ai1004_tracking/ground_truth/20240619_1_250_ai1004_tracking_gt_centersubframe_exr_meta.tar.gz.xxh128",
+      "bytes": 99,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240619_1_250_ai1004_tracking/ground_truth/20240619_1_250_ai1004_tracking_gt_centersubframe_exr_meta.tar.gz.xxh128"
+    },
+    {
+      "path": "20240619_1_250_ai1004_tracking/ground_truth/20240619_1_250_ai1004_tracking_gt_centersubframe_exr_meta_csv.tar.gz",
+      "bytes": 3891353,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240619_1_250_ai1004_tracking/ground_truth/20240619_1_250_ai1004_tracking_gt_centersubframe_exr_meta_csv.tar.gz"
+    },
+    {
+      "path": "20240619_1_250_ai1004_tracking/ground_truth/20240619_1_250_ai1004_tracking_gt_centersubframe_exr_meta_csv.tar.gz.xxh128",
+      "bytes": 103,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240619_1_250_ai1004_tracking/ground_truth/20240619_1_250_ai1004_tracking_gt_centersubframe_exr_meta_csv.tar.gz.xxh128"
+    },
+    {
+      "path": "20240619_1_250_ai1004_tracking/mp4/20240619_1_250_ai1004_tracking_mp4.tar",
+      "bytes": 1280020480,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240619_1_250_ai1004_tracking/mp4/20240619_1_250_ai1004_tracking_mp4.tar"
+    },
+    {
+      "path": "20240619_1_250_ai1004_tracking/mp4/20240619_1_250_ai1004_tracking_mp4.tar.xxh128",
+      "bytes": 73,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240619_1_250_ai1004_tracking/mp4/20240619_1_250_ai1004_tracking_mp4.tar.xxh128"
+    },
+    {
+      "path": "20240619_2_250_ai1004_orbit/blacklist.txt",
+      "bytes": 77,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240619_2_250_ai1004_orbit/blacklist.txt"
+    },
+    {
+      "path": "20240619_2_250_ai1004_orbit/ground_truth/20240619_2_250_ai1004_orbit_gt_centersubframe_exr_meta.tar.gz",
+      "bytes": 11969214,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240619_2_250_ai1004_orbit/ground_truth/20240619_2_250_ai1004_orbit_gt_centersubframe_exr_meta.tar.gz"
+    },
+    {
+      "path": "20240619_2_250_ai1004_orbit/ground_truth/20240619_2_250_ai1004_orbit_gt_centersubframe_exr_meta.tar.gz.xxh128",
+      "bytes": 96,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240619_2_250_ai1004_orbit/ground_truth/20240619_2_250_ai1004_orbit_gt_centersubframe_exr_meta.tar.gz.xxh128"
+    },
+    {
+      "path": "20240619_2_250_ai1004_orbit/ground_truth/20240619_2_250_ai1004_orbit_gt_centersubframe_exr_meta_csv.tar.gz",
+      "bytes": 2803877,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240619_2_250_ai1004_orbit/ground_truth/20240619_2_250_ai1004_orbit_gt_centersubframe_exr_meta_csv.tar.gz"
+    },
+    {
+      "path": "20240619_2_250_ai1004_orbit/ground_truth/20240619_2_250_ai1004_orbit_gt_centersubframe_exr_meta_csv.tar.gz.xxh128",
+      "bytes": 100,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240619_2_250_ai1004_orbit/ground_truth/20240619_2_250_ai1004_orbit_gt_centersubframe_exr_meta_csv.tar.gz.xxh128"
+    },
+    {
+      "path": "20240619_2_250_ai1004_orbit/mp4/20240619_2_250_ai1004_orbit_mp4.tar",
+      "bytes": 1037045760,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240619_2_250_ai1004_orbit/mp4/20240619_2_250_ai1004_orbit_mp4.tar"
+    },
+    {
+      "path": "20240619_2_250_ai1004_orbit/mp4/20240619_2_250_ai1004_orbit_mp4.tar.xxh128",
+      "bytes": 70,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240619_2_250_ai1004_orbit/mp4/20240619_2_250_ai1004_orbit_mp4.tar.xxh128"
+    },
+    {
+      "path": "20240620_5_250_archmodelsvol8_dollyz/ground_truth/20240620_5_250_archmodelsvol8_dollyz_gt_centersubframe_exr_meta.tar.gz",
+      "bytes": 9724068,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240620_5_250_archmodelsvol8_dollyz/ground_truth/20240620_5_250_archmodelsvol8_dollyz_gt_centersubframe_exr_meta.tar.gz"
+    },
+    {
+      "path": "20240620_5_250_archmodelsvol8_dollyz/ground_truth/20240620_5_250_archmodelsvol8_dollyz_gt_centersubframe_exr_meta.tar.gz.xxh128",
+      "bytes": 105,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240620_5_250_archmodelsvol8_dollyz/ground_truth/20240620_5_250_archmodelsvol8_dollyz_gt_centersubframe_exr_meta.tar.gz.xxh128"
+    },
+    {
+      "path": "20240620_5_250_archmodelsvol8_dollyz/ground_truth/20240620_5_250_archmodelsvol8_dollyz_gt_centersubframe_exr_meta_csv.tar.gz",
+      "bytes": 2287487,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240620_5_250_archmodelsvol8_dollyz/ground_truth/20240620_5_250_archmodelsvol8_dollyz_gt_centersubframe_exr_meta_csv.tar.gz"
+    },
+    {
+      "path": "20240620_5_250_archmodelsvol8_dollyz/ground_truth/20240620_5_250_archmodelsvol8_dollyz_gt_centersubframe_exr_meta_csv.tar.gz.xxh128",
+      "bytes": 109,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240620_5_250_archmodelsvol8_dollyz/ground_truth/20240620_5_250_archmodelsvol8_dollyz_gt_centersubframe_exr_meta_csv.tar.gz.xxh128"
+    },
+    {
+      "path": "20240620_5_250_archmodelsvol8_dollyz/mp4/20240620_5_250_archmodelsvol8_dollyz_mp4.tar",
+      "bytes": 1098342400,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240620_5_250_archmodelsvol8_dollyz/mp4/20240620_5_250_archmodelsvol8_dollyz_mp4.tar"
+    },
+    {
+      "path": "20240620_5_250_archmodelsvol8_dollyz/mp4/20240620_5_250_archmodelsvol8_dollyz_mp4.tar.xxh128",
+      "bytes": 79,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240620_5_250_archmodelsvol8_dollyz/mp4/20240620_5_250_archmodelsvol8_dollyz_mp4.tar.xxh128"
+    },
+    {
+      "path": "20240625_1_2337_hdri/ground_truth/20240625_1_2337_hdri_gt_centersubframe_exr_meta.tar.gz",
+      "bytes": 96937975,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240625_1_2337_hdri/ground_truth/20240625_1_2337_hdri_gt_centersubframe_exr_meta.tar.gz"
+    },
+    {
+      "path": "20240625_1_2337_hdri/ground_truth/20240625_1_2337_hdri_gt_centersubframe_exr_meta.tar.gz.xxh128",
+      "bytes": 89,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240625_1_2337_hdri/ground_truth/20240625_1_2337_hdri_gt_centersubframe_exr_meta.tar.gz.xxh128"
+    },
+    {
+      "path": "20240625_1_2337_hdri/ground_truth/20240625_1_2337_hdri_gt_centersubframe_exr_meta_csv.tar.gz",
+      "bytes": 17314665,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240625_1_2337_hdri/ground_truth/20240625_1_2337_hdri_gt_centersubframe_exr_meta_csv.tar.gz"
+    },
+    {
+      "path": "20240625_1_2337_hdri/ground_truth/20240625_1_2337_hdri_gt_centersubframe_exr_meta_csv.tar.gz.xxh128",
+      "bytes": 93,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240625_1_2337_hdri/ground_truth/20240625_1_2337_hdri_gt_centersubframe_exr_meta_csv.tar.gz.xxh128"
+    },
+    {
+      "path": "20240625_1_2337_hdri/mp4/20240625_1_2337_hdri_mp4.tar",
+      "bytes": 4494807040,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240625_1_2337_hdri/mp4/20240625_1_2337_hdri_mp4.tar"
+    },
+    {
+      "path": "20240625_1_2337_hdri/mp4/20240625_1_2337_hdri_mp4.tar.xxh128",
+      "bytes": 63,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240625_1_2337_hdri/mp4/20240625_1_2337_hdri_mp4.tar.xxh128"
+    },
+    {
+      "path": "20240628_1_250_ai1004_tracking/ground_truth/20240628_1_250_ai1004_tracking_gt_centersubframe_exr_meta.tar.gz",
+      "bytes": 19847594,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240628_1_250_ai1004_tracking/ground_truth/20240628_1_250_ai1004_tracking_gt_centersubframe_exr_meta.tar.gz"
+    },
+    {
+      "path": "20240628_1_250_ai1004_tracking/ground_truth/20240628_1_250_ai1004_tracking_gt_centersubframe_exr_meta.tar.gz.xxh128",
+      "bytes": 99,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240628_1_250_ai1004_tracking/ground_truth/20240628_1_250_ai1004_tracking_gt_centersubframe_exr_meta.tar.gz.xxh128"
+    },
+    {
+      "path": "20240628_1_250_ai1004_tracking/ground_truth/20240628_1_250_ai1004_tracking_gt_centersubframe_exr_meta_csv.tar.gz",
+      "bytes": 4565124,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240628_1_250_ai1004_tracking/ground_truth/20240628_1_250_ai1004_tracking_gt_centersubframe_exr_meta_csv.tar.gz"
+    },
+    {
+      "path": "20240628_1_250_ai1004_tracking/ground_truth/20240628_1_250_ai1004_tracking_gt_centersubframe_exr_meta_csv.tar.gz.xxh128",
+      "bytes": 103,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240628_1_250_ai1004_tracking/ground_truth/20240628_1_250_ai1004_tracking_gt_centersubframe_exr_meta_csv.tar.gz.xxh128"
+    },
+    {
+      "path": "20240628_1_250_ai1004_tracking/mp4/20240628_1_250_ai1004_tracking_mp4.tar",
+      "bytes": 1431982080,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240628_1_250_ai1004_tracking/mp4/20240628_1_250_ai1004_tracking_mp4.tar"
+    },
+    {
+      "path": "20240628_1_250_ai1004_tracking/mp4/20240628_1_250_ai1004_tracking_mp4.tar.xxh128",
+      "bytes": 73,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240628_1_250_ai1004_tracking/mp4/20240628_1_250_ai1004_tracking_mp4.tar.xxh128"
+    },
+    {
+      "path": "20240628_4_250_busstation_orbit/ground_truth/20240628_4_250_busstation_orbit_gt_centersubframe_exr_meta.tar.gz",
+      "bytes": 11111172,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240628_4_250_busstation_orbit/ground_truth/20240628_4_250_busstation_orbit_gt_centersubframe_exr_meta.tar.gz"
+    },
+    {
+      "path": "20240628_4_250_busstation_orbit/ground_truth/20240628_4_250_busstation_orbit_gt_centersubframe_exr_meta.tar.gz.xxh128",
+      "bytes": 100,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240628_4_250_busstation_orbit/ground_truth/20240628_4_250_busstation_orbit_gt_centersubframe_exr_meta.tar.gz.xxh128"
+    },
+    {
+      "path": "20240628_4_250_busstation_orbit/ground_truth/20240628_4_250_busstation_orbit_gt_centersubframe_exr_meta_csv.tar.gz",
+      "bytes": 2622664,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240628_4_250_busstation_orbit/ground_truth/20240628_4_250_busstation_orbit_gt_centersubframe_exr_meta_csv.tar.gz"
+    },
+    {
+      "path": "20240628_4_250_busstation_orbit/ground_truth/20240628_4_250_busstation_orbit_gt_centersubframe_exr_meta_csv.tar.gz.xxh128",
+      "bytes": 104,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240628_4_250_busstation_orbit/ground_truth/20240628_4_250_busstation_orbit_gt_centersubframe_exr_meta_csv.tar.gz.xxh128"
+    },
+    {
+      "path": "20240628_4_250_busstation_orbit/mp4/20240628_4_250_busstation_orbit_mp4.tar",
+      "bytes": 889149440,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240628_4_250_busstation_orbit/mp4/20240628_4_250_busstation_orbit_mp4.tar"
+    },
+    {
+      "path": "20240628_4_250_busstation_orbit/mp4/20240628_4_250_busstation_orbit_mp4.tar.xxh128",
+      "bytes": 74,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240628_4_250_busstation_orbit/mp4/20240628_4_250_busstation_orbit_mp4.tar.xxh128"
+    },
+    {
+      "path": "20240701_1_250_ai0901_lookat/ground_truth/20240701_1_250_ai0901_lookat_gt_centersubframe_exr_meta.tar.gz",
+      "bytes": 14263172,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240701_1_250_ai0901_lookat/ground_truth/20240701_1_250_ai0901_lookat_gt_centersubframe_exr_meta.tar.gz"
+    },
+    {
+      "path": "20240701_1_250_ai0901_lookat/ground_truth/20240701_1_250_ai0901_lookat_gt_centersubframe_exr_meta.tar.gz.xxh128",
+      "bytes": 97,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240701_1_250_ai0901_lookat/ground_truth/20240701_1_250_ai0901_lookat_gt_centersubframe_exr_meta.tar.gz.xxh128"
+    },
+    {
+      "path": "20240701_1_250_ai0901_lookat/ground_truth/20240701_1_250_ai0901_lookat_gt_centersubframe_exr_meta_csv.tar.gz",
+      "bytes": 2701526,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240701_1_250_ai0901_lookat/ground_truth/20240701_1_250_ai0901_lookat_gt_centersubframe_exr_meta_csv.tar.gz"
+    },
+    {
+      "path": "20240701_1_250_ai0901_lookat/ground_truth/20240701_1_250_ai0901_lookat_gt_centersubframe_exr_meta_csv.tar.gz.xxh128",
+      "bytes": 101,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240701_1_250_ai0901_lookat/ground_truth/20240701_1_250_ai0901_lookat_gt_centersubframe_exr_meta_csv.tar.gz.xxh128"
+    },
+    {
+      "path": "20240701_1_250_ai0901_lookat/mp4/20240701_1_250_ai0901_lookat_mp4.tar",
+      "bytes": 2101360640,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240701_1_250_ai0901_lookat/mp4/20240701_1_250_ai0901_lookat_mp4.tar"
+    },
+    {
+      "path": "20240701_1_250_ai0901_lookat/mp4/20240701_1_250_ai0901_lookat_mp4.tar.xxh128",
+      "bytes": 71,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240701_1_250_ai0901_lookat/mp4/20240701_1_250_ai0901_lookat_mp4.tar.xxh128"
+    },
+    {
+      "path": "20240703_1_250_ai0901_orbit_portrait/ground_truth/20240703_1_250_ai0901_orbit_portrait_gt_centersubframe_exr_meta.tar.gz",
+      "bytes": 20400429,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240703_1_250_ai0901_orbit_portrait/ground_truth/20240703_1_250_ai0901_orbit_portrait_gt_centersubframe_exr_meta.tar.gz"
+    },
+    {
+      "path": "20240703_1_250_ai0901_orbit_portrait/ground_truth/20240703_1_250_ai0901_orbit_portrait_gt_centersubframe_exr_meta.tar.gz.xxh128",
+      "bytes": 105,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240703_1_250_ai0901_orbit_portrait/ground_truth/20240703_1_250_ai0901_orbit_portrait_gt_centersubframe_exr_meta.tar.gz.xxh128"
+    },
+    {
+      "path": "20240703_1_250_ai0901_orbit_portrait/ground_truth/20240703_1_250_ai0901_orbit_portrait_gt_centersubframe_exr_meta_csv.tar.gz",
+      "bytes": 4674440,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240703_1_250_ai0901_orbit_portrait/ground_truth/20240703_1_250_ai0901_orbit_portrait_gt_centersubframe_exr_meta_csv.tar.gz"
+    },
+    {
+      "path": "20240703_1_250_ai0901_orbit_portrait/ground_truth/20240703_1_250_ai0901_orbit_portrait_gt_centersubframe_exr_meta_csv.tar.gz.xxh128",
+      "bytes": 109,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240703_1_250_ai0901_orbit_portrait/ground_truth/20240703_1_250_ai0901_orbit_portrait_gt_centersubframe_exr_meta_csv.tar.gz.xxh128"
+    },
+    {
+      "path": "20240703_1_250_ai0901_orbit_portrait/mp4/20240703_1_250_ai0901_orbit_portrait_mp4.tar",
+      "bytes": 2963517440,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240703_1_250_ai0901_orbit_portrait/mp4/20240703_1_250_ai0901_orbit_portrait_mp4.tar"
+    },
+    {
+      "path": "20240703_1_250_ai0901_orbit_portrait/mp4/20240703_1_250_ai0901_orbit_portrait_mp4.tar.xxh128",
+      "bytes": 79,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240703_1_250_ai0901_orbit_portrait/mp4/20240703_1_250_ai0901_orbit_portrait_mp4.tar.xxh128"
+    },
+    {
+      "path": "20240708_1_250_ai0901_static_portrait/blacklist.txt",
+      "bytes": 10,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240708_1_250_ai0901_static_portrait/blacklist.txt"
+    },
+    {
+      "path": "20240708_1_250_ai0901_static_portrait/ground_truth/20240708_1_250_ai0901_static_portrait_gt_centersubframe_exr_meta.tar.gz",
+      "bytes": 6453332,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240708_1_250_ai0901_static_portrait/ground_truth/20240708_1_250_ai0901_static_portrait_gt_centersubframe_exr_meta.tar.gz"
+    },
+    {
+      "path": "20240708_1_250_ai0901_static_portrait/ground_truth/20240708_1_250_ai0901_static_portrait_gt_centersubframe_exr_meta.tar.gz.xxh128",
+      "bytes": 106,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240708_1_250_ai0901_static_portrait/ground_truth/20240708_1_250_ai0901_static_portrait_gt_centersubframe_exr_meta.tar.gz.xxh128"
+    },
+    {
+      "path": "20240708_1_250_ai0901_static_portrait/ground_truth/20240708_1_250_ai0901_static_portrait_gt_centersubframe_exr_meta_csv.tar.gz",
+      "bytes": 401515,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240708_1_250_ai0901_static_portrait/ground_truth/20240708_1_250_ai0901_static_portrait_gt_centersubframe_exr_meta_csv.tar.gz"
+    },
+    {
+      "path": "20240708_1_250_ai0901_static_portrait/ground_truth/20240708_1_250_ai0901_static_portrait_gt_centersubframe_exr_meta_csv.tar.gz.xxh128",
+      "bytes": 110,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240708_1_250_ai0901_static_portrait/ground_truth/20240708_1_250_ai0901_static_portrait_gt_centersubframe_exr_meta_csv.tar.gz.xxh128"
+    },
+    {
+      "path": "20240708_1_250_ai0901_static_portrait/mp4/20240708_1_250_ai0901_static_portrait_mp4.tar",
+      "bytes": 1363630080,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240708_1_250_ai0901_static_portrait/mp4/20240708_1_250_ai0901_static_portrait_mp4.tar"
+    },
+    {
+      "path": "20240708_1_250_ai0901_static_portrait/mp4/20240708_1_250_ai0901_static_portrait_mp4.tar.xxh128",
+      "bytes": 80,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240708_1_250_ai0901_static_portrait/mp4/20240708_1_250_ai0901_static_portrait_mp4.tar.xxh128"
+    },
+    {
+      "path": "20240709_5_250_archmodelsvol8_zoom/ground_truth/20240709_5_250_archmodelsvol8_zoom_gt_centersubframe_exr_meta.tar.gz",
+      "bytes": 7443914,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240709_5_250_archmodelsvol8_zoom/ground_truth/20240709_5_250_archmodelsvol8_zoom_gt_centersubframe_exr_meta.tar.gz"
+    },
+    {
+      "path": "20240709_5_250_archmodelsvol8_zoom/ground_truth/20240709_5_250_archmodelsvol8_zoom_gt_centersubframe_exr_meta.tar.gz.xxh128",
+      "bytes": 103,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240709_5_250_archmodelsvol8_zoom/ground_truth/20240709_5_250_archmodelsvol8_zoom_gt_centersubframe_exr_meta.tar.gz.xxh128"
+    },
+    {
+      "path": "20240709_5_250_archmodelsvol8_zoom/ground_truth/20240709_5_250_archmodelsvol8_zoom_gt_centersubframe_exr_meta_csv.tar.gz",
+      "bytes": 1724039,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240709_5_250_archmodelsvol8_zoom/ground_truth/20240709_5_250_archmodelsvol8_zoom_gt_centersubframe_exr_meta_csv.tar.gz"
+    },
+    {
+      "path": "20240709_5_250_archmodelsvol8_zoom/ground_truth/20240709_5_250_archmodelsvol8_zoom_gt_centersubframe_exr_meta_csv.tar.gz.xxh128",
+      "bytes": 107,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240709_5_250_archmodelsvol8_zoom/ground_truth/20240709_5_250_archmodelsvol8_zoom_gt_centersubframe_exr_meta_csv.tar.gz.xxh128"
+    },
+    {
+      "path": "20240709_5_250_archmodelsvol8_zoom/mp4/20240709_5_250_archmodelsvol8_zoom_mp4.tar",
+      "bytes": 2152478720,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240709_5_250_archmodelsvol8_zoom/mp4/20240709_5_250_archmodelsvol8_zoom_mp4.tar"
+    },
+    {
+      "path": "20240709_5_250_archmodelsvol8_zoom/mp4/20240709_5_250_archmodelsvol8_zoom_mp4.tar.xxh128",
+      "bytes": 77,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240709_5_250_archmodelsvol8_zoom/mp4/20240709_5_250_archmodelsvol8_zoom_mp4.tar.xxh128"
+    },
+    {
+      "path": "20240710_1_250_ai0805_orbit_portrait/ground_truth/20240710_1_250_ai0805_orbit_portrait_gt_centersubframe_exr_meta.tar.gz",
+      "bytes": 19293580,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240710_1_250_ai0805_orbit_portrait/ground_truth/20240710_1_250_ai0805_orbit_portrait_gt_centersubframe_exr_meta.tar.gz"
+    },
+    {
+      "path": "20240710_1_250_ai0805_orbit_portrait/ground_truth/20240710_1_250_ai0805_orbit_portrait_gt_centersubframe_exr_meta.tar.gz.xxh128",
+      "bytes": 105,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240710_1_250_ai0805_orbit_portrait/ground_truth/20240710_1_250_ai0805_orbit_portrait_gt_centersubframe_exr_meta.tar.gz.xxh128"
+    },
+    {
+      "path": "20240710_1_250_ai0805_orbit_portrait/ground_truth/20240710_1_250_ai0805_orbit_portrait_gt_centersubframe_exr_meta_csv.tar.gz",
+      "bytes": 4414840,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240710_1_250_ai0805_orbit_portrait/ground_truth/20240710_1_250_ai0805_orbit_portrait_gt_centersubframe_exr_meta_csv.tar.gz"
+    },
+    {
+      "path": "20240710_1_250_ai0805_orbit_portrait/ground_truth/20240710_1_250_ai0805_orbit_portrait_gt_centersubframe_exr_meta_csv.tar.gz.xxh128",
+      "bytes": 109,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240710_1_250_ai0805_orbit_portrait/ground_truth/20240710_1_250_ai0805_orbit_portrait_gt_centersubframe_exr_meta_csv.tar.gz.xxh128"
+    },
+    {
+      "path": "20240710_1_250_ai0805_orbit_portrait/mp4/20240710_1_250_ai0805_orbit_portrait_mp4.tar",
+      "bytes": 2781265920,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240710_1_250_ai0805_orbit_portrait/mp4/20240710_1_250_ai0805_orbit_portrait_mp4.tar"
+    },
+    {
+      "path": "20240710_1_250_ai0805_orbit_portrait/mp4/20240710_1_250_ai0805_orbit_portrait_mp4.tar.xxh128",
+      "bytes": 79,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240710_1_250_ai0805_orbit_portrait/mp4/20240710_1_250_ai0805_orbit_portrait_mp4.tar.xxh128"
+    },
+    {
+      "path": "20240711_5-10_250_busstation_orbit_zoom/ground_truth/20240711_5-10_250_busstation_orbit_zoom_gt_centersubframe_exr_meta.tar.gz",
+      "bytes": 11393630,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240711_5-10_250_busstation_orbit_zoom/ground_truth/20240711_5-10_250_busstation_orbit_zoom_gt_centersubframe_exr_meta.tar.gz"
+    },
+    {
+      "path": "20240711_5-10_250_busstation_orbit_zoom/ground_truth/20240711_5-10_250_busstation_orbit_zoom_gt_centersubframe_exr_meta.tar.gz.xxh128",
+      "bytes": 108,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240711_5-10_250_busstation_orbit_zoom/ground_truth/20240711_5-10_250_busstation_orbit_zoom_gt_centersubframe_exr_meta.tar.gz.xxh128"
+    },
+    {
+      "path": "20240711_5-10_250_busstation_orbit_zoom/ground_truth/20240711_5-10_250_busstation_orbit_zoom_gt_centersubframe_exr_meta_csv.tar.gz",
+      "bytes": 2915712,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240711_5-10_250_busstation_orbit_zoom/ground_truth/20240711_5-10_250_busstation_orbit_zoom_gt_centersubframe_exr_meta_csv.tar.gz"
+    },
+    {
+      "path": "20240711_5-10_250_busstation_orbit_zoom/ground_truth/20240711_5-10_250_busstation_orbit_zoom_gt_centersubframe_exr_meta_csv.tar.gz.xxh128",
+      "bytes": 112,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240711_5-10_250_busstation_orbit_zoom/ground_truth/20240711_5-10_250_busstation_orbit_zoom_gt_centersubframe_exr_meta_csv.tar.gz.xxh128"
+    },
+    {
+      "path": "20240711_5-10_250_busstation_orbit_zoom/mp4/20240711_5-10_250_busstation_orbit_zoom_mp4.tar",
+      "bytes": 856637440,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240711_5-10_250_busstation_orbit_zoom/mp4/20240711_5-10_250_busstation_orbit_zoom_mp4.tar"
+    },
+    {
+      "path": "20240711_5-10_250_busstation_orbit_zoom/mp4/20240711_5-10_250_busstation_orbit_zoom_mp4.tar.xxh128",
+      "bytes": 82,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240711_5-10_250_busstation_orbit_zoom/mp4/20240711_5-10_250_busstation_orbit_zoom_mp4.tar.xxh128"
+    },
+    {
+      "path": "20240725_1_250_ai0805_vcam/ground_truth/20240725_1_250_ai0805_vcam_gt_centersubframe_exr_meta.tar.gz",
+      "bytes": 26972663,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240725_1_250_ai0805_vcam/ground_truth/20240725_1_250_ai0805_vcam_gt_centersubframe_exr_meta.tar.gz"
+    },
+    {
+      "path": "20240725_1_250_ai0805_vcam/ground_truth/20240725_1_250_ai0805_vcam_gt_centersubframe_exr_meta.tar.gz.xxh128",
+      "bytes": 95,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240725_1_250_ai0805_vcam/ground_truth/20240725_1_250_ai0805_vcam_gt_centersubframe_exr_meta.tar.gz.xxh128"
+    },
+    {
+      "path": "20240725_1_250_ai0805_vcam/ground_truth/20240725_1_250_ai0805_vcam_gt_centersubframe_exr_meta_csv.tar.gz",
+      "bytes": 10981068,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240725_1_250_ai0805_vcam/ground_truth/20240725_1_250_ai0805_vcam_gt_centersubframe_exr_meta_csv.tar.gz"
+    },
+    {
+      "path": "20240725_1_250_ai0805_vcam/ground_truth/20240725_1_250_ai0805_vcam_gt_centersubframe_exr_meta_csv.tar.gz.xxh128",
+      "bytes": 99,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240725_1_250_ai0805_vcam/ground_truth/20240725_1_250_ai0805_vcam_gt_centersubframe_exr_meta_csv.tar.gz.xxh128"
+    },
+    {
+      "path": "20240725_1_250_ai0805_vcam/mp4/20240725_1_250_ai0805_vcam_mp4.tar",
+      "bytes": 3784704000,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240725_1_250_ai0805_vcam/mp4/20240725_1_250_ai0805_vcam_mp4.tar"
+    },
+    {
+      "path": "20240725_1_250_ai0805_vcam/mp4/20240725_1_250_ai0805_vcam_mp4.tar.xxh128",
+      "bytes": 69,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240725_1_250_ai0805_vcam/mp4/20240725_1_250_ai0805_vcam_mp4.tar.xxh128"
+    },
+    {
+      "path": "20240726_1_250_ai0805_vcam/ground_truth/20240726_1_250_ai0805_vcam_gt_centersubframe_exr_meta.tar.gz",
+      "bytes": 26968703,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240726_1_250_ai0805_vcam/ground_truth/20240726_1_250_ai0805_vcam_gt_centersubframe_exr_meta.tar.gz"
+    },
+    {
+      "path": "20240726_1_250_ai0805_vcam/ground_truth/20240726_1_250_ai0805_vcam_gt_centersubframe_exr_meta.tar.gz.xxh128",
+      "bytes": 95,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240726_1_250_ai0805_vcam/ground_truth/20240726_1_250_ai0805_vcam_gt_centersubframe_exr_meta.tar.gz.xxh128"
+    },
+    {
+      "path": "20240726_1_250_ai0805_vcam/ground_truth/20240726_1_250_ai0805_vcam_gt_centersubframe_exr_meta_csv.tar.gz",
+      "bytes": 10982223,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240726_1_250_ai0805_vcam/ground_truth/20240726_1_250_ai0805_vcam_gt_centersubframe_exr_meta_csv.tar.gz"
+    },
+    {
+      "path": "20240726_1_250_ai0805_vcam/ground_truth/20240726_1_250_ai0805_vcam_gt_centersubframe_exr_meta_csv.tar.gz.xxh128",
+      "bytes": 99,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240726_1_250_ai0805_vcam/ground_truth/20240726_1_250_ai0805_vcam_gt_centersubframe_exr_meta_csv.tar.gz.xxh128"
+    },
+    {
+      "path": "20240726_1_250_ai0805_vcam/mp4/20240726_1_250_ai0805_vcam_mp4.tar",
+      "bytes": 3911075840,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240726_1_250_ai0805_vcam/mp4/20240726_1_250_ai0805_vcam_mp4.tar"
+    },
+    {
+      "path": "20240726_1_250_ai0805_vcam/mp4/20240726_1_250_ai0805_vcam_mp4.tar.xxh128",
+      "bytes": 69,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240726_1_250_ai0805_vcam/mp4/20240726_1_250_ai0805_vcam_mp4.tar.xxh128"
+    },
+    {
+      "path": "20240729_1_250_ai1004_vcam/ground_truth/20240729_1_250_ai1004_vcam_gt_centersubframe_exr_meta.tar.gz",
+      "bytes": 26664747,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240729_1_250_ai1004_vcam/ground_truth/20240729_1_250_ai1004_vcam_gt_centersubframe_exr_meta.tar.gz"
+    },
+    {
+      "path": "20240729_1_250_ai1004_vcam/ground_truth/20240729_1_250_ai1004_vcam_gt_centersubframe_exr_meta.tar.gz.xxh128",
+      "bytes": 95,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240729_1_250_ai1004_vcam/ground_truth/20240729_1_250_ai1004_vcam_gt_centersubframe_exr_meta.tar.gz.xxh128"
+    },
+    {
+      "path": "20240729_1_250_ai1004_vcam/ground_truth/20240729_1_250_ai1004_vcam_gt_centersubframe_exr_meta_csv.tar.gz",
+      "bytes": 10728691,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240729_1_250_ai1004_vcam/ground_truth/20240729_1_250_ai1004_vcam_gt_centersubframe_exr_meta_csv.tar.gz"
+    },
+    {
+      "path": "20240729_1_250_ai1004_vcam/ground_truth/20240729_1_250_ai1004_vcam_gt_centersubframe_exr_meta_csv.tar.gz.xxh128",
+      "bytes": 99,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240729_1_250_ai1004_vcam/ground_truth/20240729_1_250_ai1004_vcam_gt_centersubframe_exr_meta_csv.tar.gz.xxh128"
+    },
+    {
+      "path": "20240729_1_250_ai1004_vcam/mp4/20240729_1_250_ai1004_vcam_mp4.tar",
+      "bytes": 1853603840,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240729_1_250_ai1004_vcam/mp4/20240729_1_250_ai1004_vcam_mp4.tar"
+    },
+    {
+      "path": "20240729_1_250_ai1004_vcam/mp4/20240729_1_250_ai1004_vcam_mp4.tar.xxh128",
+      "bytes": 69,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240729_1_250_ai1004_vcam/mp4/20240729_1_250_ai1004_vcam_mp4.tar.xxh128"
+    },
+    {
+      "path": "20240730_1_250_ai1101_vcam/ground_truth/20240730_1_250_ai1101_vcam_gt_centersubframe_exr_meta.tar.gz",
+      "bytes": 26142311,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240730_1_250_ai1101_vcam/ground_truth/20240730_1_250_ai1101_vcam_gt_centersubframe_exr_meta.tar.gz"
+    },
+    {
+      "path": "20240730_1_250_ai1101_vcam/ground_truth/20240730_1_250_ai1101_vcam_gt_centersubframe_exr_meta.tar.gz.xxh128",
+      "bytes": 95,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240730_1_250_ai1101_vcam/ground_truth/20240730_1_250_ai1101_vcam_gt_centersubframe_exr_meta.tar.gz.xxh128"
+    },
+    {
+      "path": "20240730_1_250_ai1101_vcam/ground_truth/20240730_1_250_ai1101_vcam_gt_centersubframe_exr_meta_csv.tar.gz",
+      "bytes": 10489500,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240730_1_250_ai1101_vcam/ground_truth/20240730_1_250_ai1101_vcam_gt_centersubframe_exr_meta_csv.tar.gz"
+    },
+    {
+      "path": "20240730_1_250_ai1101_vcam/ground_truth/20240730_1_250_ai1101_vcam_gt_centersubframe_exr_meta_csv.tar.gz.xxh128",
+      "bytes": 99,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240730_1_250_ai1101_vcam/ground_truth/20240730_1_250_ai1101_vcam_gt_centersubframe_exr_meta_csv.tar.gz.xxh128"
+    },
+    {
+      "path": "20240730_1_250_ai1101_vcam/mp4/20240730_1_250_ai1101_vcam_mp4.tar",
+      "bytes": 1577308160,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240730_1_250_ai1101_vcam/mp4/20240730_1_250_ai1101_vcam_mp4.tar"
+    },
+    {
+      "path": "20240730_1_250_ai1101_vcam/mp4/20240730_1_250_ai1101_vcam_mp4.tar.xxh128",
+      "bytes": 69,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240730_1_250_ai1101_vcam/mp4/20240730_1_250_ai1101_vcam_mp4.tar.xxh128"
+    },
+    {
+      "path": "20240731_1_1827_hdri/ground_truth/20240731_1_1827_hdri_gt_centersubframe_exr_meta.tar.gz",
+      "bytes": 74075826,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240731_1_1827_hdri/ground_truth/20240731_1_1827_hdri_gt_centersubframe_exr_meta.tar.gz"
+    },
+    {
+      "path": "20240731_1_1827_hdri/ground_truth/20240731_1_1827_hdri_gt_centersubframe_exr_meta.tar.gz.xxh128",
+      "bytes": 89,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240731_1_1827_hdri/ground_truth/20240731_1_1827_hdri_gt_centersubframe_exr_meta.tar.gz.xxh128"
+    },
+    {
+      "path": "20240731_1_1827_hdri/ground_truth/20240731_1_1827_hdri_gt_centersubframe_exr_meta_csv.tar.gz",
+      "bytes": 13183545,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240731_1_1827_hdri/ground_truth/20240731_1_1827_hdri_gt_centersubframe_exr_meta_csv.tar.gz"
+    },
+    {
+      "path": "20240731_1_1827_hdri/ground_truth/20240731_1_1827_hdri_gt_centersubframe_exr_meta_csv.tar.gz.xxh128",
+      "bytes": 93,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240731_1_1827_hdri/ground_truth/20240731_1_1827_hdri_gt_centersubframe_exr_meta_csv.tar.gz.xxh128"
+    },
+    {
+      "path": "20240731_1_1827_hdri/mp4/20240731_1_1827_hdri_mp4.tar",
+      "bytes": 5243310080,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240731_1_1827_hdri/mp4/20240731_1_1827_hdri_mp4.tar"
+    },
+    {
+      "path": "20240731_1_1827_hdri/mp4/20240731_1_1827_hdri_mp4.tar.xxh128",
+      "bytes": 63,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240731_1_1827_hdri/mp4/20240731_1_1827_hdri_mp4.tar.xxh128"
+    },
+    {
+      "path": "20240806_1_250_ai1101_vcam/ground_truth/20240806_1_250_ai1101_vcam_gt_centersubframe_exr_meta.tar.gz",
+      "bytes": 25643169,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240806_1_250_ai1101_vcam/ground_truth/20240806_1_250_ai1101_vcam_gt_centersubframe_exr_meta.tar.gz"
+    },
+    {
+      "path": "20240806_1_250_ai1101_vcam/ground_truth/20240806_1_250_ai1101_vcam_gt_centersubframe_exr_meta.tar.gz.xxh128",
+      "bytes": 95,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240806_1_250_ai1101_vcam/ground_truth/20240806_1_250_ai1101_vcam_gt_centersubframe_exr_meta.tar.gz.xxh128"
+    },
+    {
+      "path": "20240806_1_250_ai1101_vcam/ground_truth/20240806_1_250_ai1101_vcam_gt_centersubframe_exr_meta_csv.tar.gz",
+      "bytes": 10302661,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240806_1_250_ai1101_vcam/ground_truth/20240806_1_250_ai1101_vcam_gt_centersubframe_exr_meta_csv.tar.gz"
+    },
+    {
+      "path": "20240806_1_250_ai1101_vcam/ground_truth/20240806_1_250_ai1101_vcam_gt_centersubframe_exr_meta_csv.tar.gz.xxh128",
+      "bytes": 99,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240806_1_250_ai1101_vcam/ground_truth/20240806_1_250_ai1101_vcam_gt_centersubframe_exr_meta_csv.tar.gz.xxh128"
+    },
+    {
+      "path": "20240806_1_250_ai1101_vcam/mp4/20240806_1_250_ai1101_vcam_mp4.tar",
+      "bytes": 1578792960,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240806_1_250_ai1101_vcam/mp4/20240806_1_250_ai1101_vcam_mp4.tar"
+    },
+    {
+      "path": "20240806_1_250_ai1101_vcam/mp4/20240806_1_250_ai1101_vcam_mp4.tar.xxh128",
+      "bytes": 69,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240806_1_250_ai1101_vcam/mp4/20240806_1_250_ai1101_vcam_mp4.tar.xxh128"
+    },
+    {
+      "path": "20240808_1_250_ai1105_vcam/ground_truth/20240808_1_250_ai1105_vcam_gt_centersubframe_exr_meta.tar.gz",
+      "bytes": 26373725,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240808_1_250_ai1105_vcam/ground_truth/20240808_1_250_ai1105_vcam_gt_centersubframe_exr_meta.tar.gz"
+    },
+    {
+      "path": "20240808_1_250_ai1105_vcam/ground_truth/20240808_1_250_ai1105_vcam_gt_centersubframe_exr_meta.tar.gz.xxh128",
+      "bytes": 95,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240808_1_250_ai1105_vcam/ground_truth/20240808_1_250_ai1105_vcam_gt_centersubframe_exr_meta.tar.gz.xxh128"
+    },
+    {
+      "path": "20240808_1_250_ai1105_vcam/ground_truth/20240808_1_250_ai1105_vcam_gt_centersubframe_exr_meta_csv.tar.gz",
+      "bytes": 10738000,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240808_1_250_ai1105_vcam/ground_truth/20240808_1_250_ai1105_vcam_gt_centersubframe_exr_meta_csv.tar.gz"
+    },
+    {
+      "path": "20240808_1_250_ai1105_vcam/ground_truth/20240808_1_250_ai1105_vcam_gt_centersubframe_exr_meta_csv.tar.gz.xxh128",
+      "bytes": 99,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240808_1_250_ai1105_vcam/ground_truth/20240808_1_250_ai1105_vcam_gt_centersubframe_exr_meta_csv.tar.gz.xxh128"
+    },
+    {
+      "path": "20240808_1_250_ai1105_vcam/mp4/20240808_1_250_ai1105_vcam_mp4.tar",
+      "bytes": 2096977920,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240808_1_250_ai1105_vcam/mp4/20240808_1_250_ai1105_vcam_mp4.tar"
+    },
+    {
+      "path": "20240808_1_250_ai1105_vcam/mp4/20240808_1_250_ai1105_vcam_mp4.tar.xxh128",
+      "bytes": 69,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240808_1_250_ai1105_vcam/mp4/20240808_1_250_ai1105_vcam_mp4.tar.xxh128"
+    },
+    {
+      "path": "20240809_1_250_ai1102_vcam/ground_truth/20240809_1_250_ai1102_vcam_gt_centersubframe_exr_meta.tar.gz",
+      "bytes": 26733923,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240809_1_250_ai1102_vcam/ground_truth/20240809_1_250_ai1102_vcam_gt_centersubframe_exr_meta.tar.gz"
+    },
+    {
+      "path": "20240809_1_250_ai1102_vcam/ground_truth/20240809_1_250_ai1102_vcam_gt_centersubframe_exr_meta.tar.gz.xxh128",
+      "bytes": 95,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240809_1_250_ai1102_vcam/ground_truth/20240809_1_250_ai1102_vcam_gt_centersubframe_exr_meta.tar.gz.xxh128"
+    },
+    {
+      "path": "20240809_1_250_ai1102_vcam/ground_truth/20240809_1_250_ai1102_vcam_gt_centersubframe_exr_meta_csv.tar.gz",
+      "bytes": 10746358,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240809_1_250_ai1102_vcam/ground_truth/20240809_1_250_ai1102_vcam_gt_centersubframe_exr_meta_csv.tar.gz"
+    },
+    {
+      "path": "20240809_1_250_ai1102_vcam/ground_truth/20240809_1_250_ai1102_vcam_gt_centersubframe_exr_meta_csv.tar.gz.xxh128",
+      "bytes": 99,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240809_1_250_ai1102_vcam/ground_truth/20240809_1_250_ai1102_vcam_gt_centersubframe_exr_meta_csv.tar.gz.xxh128"
+    },
+    {
+      "path": "20240809_1_250_ai1102_vcam/mp4/20240809_1_250_ai1102_vcam_mp4.tar",
+      "bytes": 2082426880,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240809_1_250_ai1102_vcam/mp4/20240809_1_250_ai1102_vcam_mp4.tar"
+    },
+    {
+      "path": "20240809_1_250_ai1102_vcam/mp4/20240809_1_250_ai1102_vcam_mp4.tar.xxh128",
+      "bytes": 69,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240809_1_250_ai1102_vcam/mp4/20240809_1_250_ai1102_vcam_mp4.tar.xxh128"
+    },
+    {
+      "path": "20240813_1_250_ai1004_tracking/blacklist.txt",
+      "bytes": 24,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240813_1_250_ai1004_tracking/blacklist.txt"
+    },
+    {
+      "path": "20240813_1_250_ai1004_tracking/ground_truth/20240813_1_250_ai1004_tracking_gt_centersubframe_exr_meta.tar.gz",
+      "bytes": 22470974,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240813_1_250_ai1004_tracking/ground_truth/20240813_1_250_ai1004_tracking_gt_centersubframe_exr_meta.tar.gz"
+    },
+    {
+      "path": "20240813_1_250_ai1004_tracking/ground_truth/20240813_1_250_ai1004_tracking_gt_centersubframe_exr_meta.tar.gz.xxh128",
+      "bytes": 99,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240813_1_250_ai1004_tracking/ground_truth/20240813_1_250_ai1004_tracking_gt_centersubframe_exr_meta.tar.gz.xxh128"
+    },
+    {
+      "path": "20240813_1_250_ai1004_tracking/ground_truth/20240813_1_250_ai1004_tracking_gt_centersubframe_exr_meta_csv.tar.gz",
+      "bytes": 7769249,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240813_1_250_ai1004_tracking/ground_truth/20240813_1_250_ai1004_tracking_gt_centersubframe_exr_meta_csv.tar.gz"
+    },
+    {
+      "path": "20240813_1_250_ai1004_tracking/ground_truth/20240813_1_250_ai1004_tracking_gt_centersubframe_exr_meta_csv.tar.gz.xxh128",
+      "bytes": 103,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240813_1_250_ai1004_tracking/ground_truth/20240813_1_250_ai1004_tracking_gt_centersubframe_exr_meta_csv.tar.gz.xxh128"
+    },
+    {
+      "path": "20240813_1_250_ai1004_tracking/mp4/20240813_1_250_ai1004_tracking_mp4.tar",
+      "bytes": 1404026880,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240813_1_250_ai1004_tracking/mp4/20240813_1_250_ai1004_tracking_mp4.tar"
+    },
+    {
+      "path": "20240813_1_250_ai1004_tracking/mp4/20240813_1_250_ai1004_tracking_mp4.tar.xxh128",
+      "bytes": 73,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20240813_1_250_ai1004_tracking/mp4/20240813_1_250_ai1004_tracking_mp4.tar.xxh128"
+    },
+    {
+      "path": "20241001_5-10_250_busstation_orbit_zoom/ground_truth/20241001_5-10_250_busstation_orbit_zoom_gt_centersubframe_exr_meta.tar.gz",
+      "bytes": 21823997,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20241001_5-10_250_busstation_orbit_zoom/ground_truth/20241001_5-10_250_busstation_orbit_zoom_gt_centersubframe_exr_meta.tar.gz"
+    },
+    {
+      "path": "20241001_5-10_250_busstation_orbit_zoom/ground_truth/20241001_5-10_250_busstation_orbit_zoom_gt_centersubframe_exr_meta.tar.gz.xxh128",
+      "bytes": 108,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20241001_5-10_250_busstation_orbit_zoom/ground_truth/20241001_5-10_250_busstation_orbit_zoom_gt_centersubframe_exr_meta.tar.gz.xxh128"
+    },
+    {
+      "path": "20241001_5-10_250_busstation_orbit_zoom/ground_truth/20241001_5-10_250_busstation_orbit_zoom_gt_centersubframe_exr_meta_csv.tar.gz",
+      "bytes": 3639695,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20241001_5-10_250_busstation_orbit_zoom/ground_truth/20241001_5-10_250_busstation_orbit_zoom_gt_centersubframe_exr_meta_csv.tar.gz"
+    },
+    {
+      "path": "20241001_5-10_250_busstation_orbit_zoom/ground_truth/20241001_5-10_250_busstation_orbit_zoom_gt_centersubframe_exr_meta_csv.tar.gz.xxh128",
+      "bytes": 112,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20241001_5-10_250_busstation_orbit_zoom/ground_truth/20241001_5-10_250_busstation_orbit_zoom_gt_centersubframe_exr_meta_csv.tar.gz.xxh128"
+    },
+    {
+      "path": "20241001_5-10_250_busstation_orbit_zoom/mp4/20241001_5-10_250_busstation_orbit_zoom_mp4.tar",
+      "bytes": 846960640,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20241001_5-10_250_busstation_orbit_zoom/mp4/20241001_5-10_250_busstation_orbit_zoom_mp4.tar"
+    },
+    {
+      "path": "20241001_5-10_250_busstation_orbit_zoom/mp4/20241001_5-10_250_busstation_orbit_zoom_mp4.tar.xxh128",
+      "bytes": 82,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20241001_5-10_250_busstation_orbit_zoom/mp4/20241001_5-10_250_busstation_orbit_zoom_mp4.tar.xxh128"
+    },
+    {
+      "path": "20241107_1_250_archmodelsvol8_tracking/ground_truth/20241107_1_250_archmodelsvol8_tracking_gt_centersubframe_exr_meta.tar.gz",
+      "bytes": 43457876,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20241107_1_250_archmodelsvol8_tracking/ground_truth/20241107_1_250_archmodelsvol8_tracking_gt_centersubframe_exr_meta.tar.gz"
+    },
+    {
+      "path": "20241107_1_250_archmodelsvol8_tracking/ground_truth/20241107_1_250_archmodelsvol8_tracking_gt_centersubframe_exr_meta.tar.gz.xxh128",
+      "bytes": 107,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20241107_1_250_archmodelsvol8_tracking/ground_truth/20241107_1_250_archmodelsvol8_tracking_gt_centersubframe_exr_meta.tar.gz.xxh128"
+    },
+    {
+      "path": "20241107_1_250_archmodelsvol8_tracking/ground_truth/20241107_1_250_archmodelsvol8_tracking_gt_centersubframe_exr_meta_csv.tar.gz",
+      "bytes": 3911776,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20241107_1_250_archmodelsvol8_tracking/ground_truth/20241107_1_250_archmodelsvol8_tracking_gt_centersubframe_exr_meta_csv.tar.gz"
+    },
+    {
+      "path": "20241107_1_250_archmodelsvol8_tracking/ground_truth/20241107_1_250_archmodelsvol8_tracking_gt_centersubframe_exr_meta_csv.tar.gz.xxh128",
+      "bytes": 111,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20241107_1_250_archmodelsvol8_tracking/ground_truth/20241107_1_250_archmodelsvol8_tracking_gt_centersubframe_exr_meta_csv.tar.gz.xxh128"
+    },
+    {
+      "path": "20241107_1_250_archmodelsvol8_tracking/mp4/20241107_1_250_archmodelsvol8_tracking_mp4.tar",
+      "bytes": 3035668480,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20241107_1_250_archmodelsvol8_tracking/mp4/20241107_1_250_archmodelsvol8_tracking_mp4.tar"
+    },
+    {
+      "path": "20241107_1_250_archmodelsvol8_tracking/mp4/20241107_1_250_archmodelsvol8_tracking_mp4.tar.xxh128",
+      "bytes": 81,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20241107_1_250_archmodelsvol8_tracking/mp4/20241107_1_250_archmodelsvol8_tracking_mp4.tar.xxh128"
+    },
+    {
+      "path": "20241114_1_4619_hdri/ground_truth/20241114_1_4619_hdri_gt_centersubframe_exr_meta.tar.gz",
+      "bytes": 498387109,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20241114_1_4619_hdri/ground_truth/20241114_1_4619_hdri_gt_centersubframe_exr_meta.tar.gz"
+    },
+    {
+      "path": "20241114_1_4619_hdri/ground_truth/20241114_1_4619_hdri_gt_centersubframe_exr_meta.tar.gz.xxh128",
+      "bytes": 89,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20241114_1_4619_hdri/ground_truth/20241114_1_4619_hdri_gt_centersubframe_exr_meta.tar.gz.xxh128"
+    },
+    {
+      "path": "20241114_1_4619_hdri/ground_truth/20241114_1_4619_hdri_gt_centersubframe_exr_meta_csv.tar.gz",
+      "bytes": 78611450,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20241114_1_4619_hdri/ground_truth/20241114_1_4619_hdri_gt_centersubframe_exr_meta_csv.tar.gz"
+    },
+    {
+      "path": "20241114_1_4619_hdri/ground_truth/20241114_1_4619_hdri_gt_centersubframe_exr_meta_csv.tar.gz.xxh128",
+      "bytes": 93,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20241114_1_4619_hdri/ground_truth/20241114_1_4619_hdri_gt_centersubframe_exr_meta_csv.tar.gz.xxh128"
+    },
+    {
+      "path": "20241114_1_4619_hdri/mp4/20241114_1_4619_hdri_mp4.tar",
+      "bytes": 13385779200,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20241114_1_4619_hdri/mp4/20241114_1_4619_hdri_mp4.tar"
+    },
+    {
+      "path": "20241114_1_4619_hdri/mp4/20241114_1_4619_hdri_mp4.tar.xxh128",
+      "bytes": 63,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20241114_1_4619_hdri/mp4/20241114_1_4619_hdri_mp4.tar.xxh128"
+    },
+    {
+      "path": "20241204_1_2120_hdri/ground_truth/20241204_1_2120_hdri_gt_centersubframe_exr_meta.tar.gz",
+      "bytes": 212561818,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20241204_1_2120_hdri/ground_truth/20241204_1_2120_hdri_gt_centersubframe_exr_meta.tar.gz"
+    },
+    {
+      "path": "20241204_1_2120_hdri/ground_truth/20241204_1_2120_hdri_gt_centersubframe_exr_meta.tar.gz.xxh128",
+      "bytes": 89,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20241204_1_2120_hdri/ground_truth/20241204_1_2120_hdri_gt_centersubframe_exr_meta.tar.gz.xxh128"
+    },
+    {
+      "path": "20241204_1_2120_hdri/ground_truth/20241204_1_2120_hdri_gt_centersubframe_exr_meta_csv.tar.gz",
+      "bytes": 33584222,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20241204_1_2120_hdri/ground_truth/20241204_1_2120_hdri_gt_centersubframe_exr_meta_csv.tar.gz"
+    },
+    {
+      "path": "20241204_1_2120_hdri/ground_truth/20241204_1_2120_hdri_gt_centersubframe_exr_meta_csv.tar.gz.xxh128",
+      "bytes": 93,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20241204_1_2120_hdri/ground_truth/20241204_1_2120_hdri_gt_centersubframe_exr_meta_csv.tar.gz.xxh128"
+    },
+    {
+      "path": "20241204_1_2120_hdri/mp4/20241204_1_2120_hdri_mp4.tar",
+      "bytes": 5675857920,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20241204_1_2120_hdri/mp4/20241204_1_2120_hdri_mp4.tar"
+    },
+    {
+      "path": "20241204_1_2120_hdri/mp4/20241204_1_2120_hdri_mp4.tar.xxh128",
+      "bytes": 63,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20241204_1_2120_hdri/mp4/20241204_1_2120_hdri_mp4.tar.xxh128"
+    },
+    {
+      "path": "20241210_5-10_250_rome_dollyz_zoom/ground_truth/20241210_5-10_250_rome_dollyz_zoom_gt_centersubframe_exr_meta.tar.gz",
+      "bytes": 30270530,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20241210_5-10_250_rome_dollyz_zoom/ground_truth/20241210_5-10_250_rome_dollyz_zoom_gt_centersubframe_exr_meta.tar.gz"
+    },
+    {
+      "path": "20241210_5-10_250_rome_dollyz_zoom/ground_truth/20241210_5-10_250_rome_dollyz_zoom_gt_centersubframe_exr_meta.tar.gz.xxh128",
+      "bytes": 103,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20241210_5-10_250_rome_dollyz_zoom/ground_truth/20241210_5-10_250_rome_dollyz_zoom_gt_centersubframe_exr_meta.tar.gz.xxh128"
+    },
+    {
+      "path": "20241210_5-10_250_rome_dollyz_zoom/ground_truth/20241210_5-10_250_rome_dollyz_zoom_gt_centersubframe_exr_meta_csv.tar.gz",
+      "bytes": 5427721,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20241210_5-10_250_rome_dollyz_zoom/ground_truth/20241210_5-10_250_rome_dollyz_zoom_gt_centersubframe_exr_meta_csv.tar.gz"
+    },
+    {
+      "path": "20241210_5-10_250_rome_dollyz_zoom/ground_truth/20241210_5-10_250_rome_dollyz_zoom_gt_centersubframe_exr_meta_csv.tar.gz.xxh128",
+      "bytes": 107,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20241210_5-10_250_rome_dollyz_zoom/ground_truth/20241210_5-10_250_rome_dollyz_zoom_gt_centersubframe_exr_meta_csv.tar.gz.xxh128"
+    },
+    {
+      "path": "20241210_5-10_250_rome_dollyz_zoom/mp4/20241210_5-10_250_rome_dollyz_zoom_mp4.tar",
+      "bytes": 2226503680,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20241210_5-10_250_rome_dollyz_zoom/mp4/20241210_5-10_250_rome_dollyz_zoom_mp4.tar"
+    },
+    {
+      "path": "20241210_5-10_250_rome_dollyz_zoom/mp4/20241210_5-10_250_rome_dollyz_zoom_mp4.tar.xxh128",
+      "bytes": 77,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20241210_5-10_250_rome_dollyz_zoom/mp4/20241210_5-10_250_rome_dollyz_zoom_mp4.tar.xxh128"
+    },
+    {
+      "path": "20241211_5-10_250_rome_orbit_zoom/ground_truth/20241211_5-10_250_rome_orbit_zoom_gt_centersubframe_exr_meta.tar.gz",
+      "bytes": 30678502,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20241211_5-10_250_rome_orbit_zoom/ground_truth/20241211_5-10_250_rome_orbit_zoom_gt_centersubframe_exr_meta.tar.gz"
+    },
+    {
+      "path": "20241211_5-10_250_rome_orbit_zoom/ground_truth/20241211_5-10_250_rome_orbit_zoom_gt_centersubframe_exr_meta.tar.gz.xxh128",
+      "bytes": 102,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20241211_5-10_250_rome_orbit_zoom/ground_truth/20241211_5-10_250_rome_orbit_zoom_gt_centersubframe_exr_meta.tar.gz.xxh128"
+    },
+    {
+      "path": "20241211_5-10_250_rome_orbit_zoom/ground_truth/20241211_5-10_250_rome_orbit_zoom_gt_centersubframe_exr_meta_csv.tar.gz",
+      "bytes": 5527603,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20241211_5-10_250_rome_orbit_zoom/ground_truth/20241211_5-10_250_rome_orbit_zoom_gt_centersubframe_exr_meta_csv.tar.gz"
+    },
+    {
+      "path": "20241211_5-10_250_rome_orbit_zoom/ground_truth/20241211_5-10_250_rome_orbit_zoom_gt_centersubframe_exr_meta_csv.tar.gz.xxh128",
+      "bytes": 106,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20241211_5-10_250_rome_orbit_zoom/ground_truth/20241211_5-10_250_rome_orbit_zoom_gt_centersubframe_exr_meta_csv.tar.gz.xxh128"
+    },
+    {
+      "path": "20241211_5-10_250_rome_orbit_zoom/mp4/20241211_5-10_250_rome_orbit_zoom_mp4.tar",
+      "bytes": 1945835520,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20241211_5-10_250_rome_orbit_zoom/mp4/20241211_5-10_250_rome_orbit_zoom_mp4.tar"
+    },
+    {
+      "path": "20241211_5-10_250_rome_orbit_zoom/mp4/20241211_5-10_250_rome_orbit_zoom_mp4.tar.xxh128",
+      "bytes": 76,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20241211_5-10_250_rome_orbit_zoom/mp4/20241211_5-10_250_rome_orbit_zoom_mp4.tar.xxh128"
+    },
+    {
+      "path": "20241212_5-10_250_rome_dolly_zoom/ground_truth/20241212_5-10_250_rome_dolly_zoom_gt_centersubframe_exr_meta.tar.gz",
+      "bytes": 30560612,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20241212_5-10_250_rome_dolly_zoom/ground_truth/20241212_5-10_250_rome_dolly_zoom_gt_centersubframe_exr_meta.tar.gz"
+    },
+    {
+      "path": "20241212_5-10_250_rome_dolly_zoom/ground_truth/20241212_5-10_250_rome_dolly_zoom_gt_centersubframe_exr_meta.tar.gz.xxh128",
+      "bytes": 102,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20241212_5-10_250_rome_dolly_zoom/ground_truth/20241212_5-10_250_rome_dolly_zoom_gt_centersubframe_exr_meta.tar.gz.xxh128"
+    },
+    {
+      "path": "20241212_5-10_250_rome_dolly_zoom/ground_truth/20241212_5-10_250_rome_dolly_zoom_gt_centersubframe_exr_meta_csv.tar.gz",
+      "bytes": 5497278,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20241212_5-10_250_rome_dolly_zoom/ground_truth/20241212_5-10_250_rome_dolly_zoom_gt_centersubframe_exr_meta_csv.tar.gz"
+    },
+    {
+      "path": "20241212_5-10_250_rome_dolly_zoom/ground_truth/20241212_5-10_250_rome_dolly_zoom_gt_centersubframe_exr_meta_csv.tar.gz.xxh128",
+      "bytes": 106,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20241212_5-10_250_rome_dolly_zoom/ground_truth/20241212_5-10_250_rome_dolly_zoom_gt_centersubframe_exr_meta_csv.tar.gz.xxh128"
+    },
+    {
+      "path": "20241212_5-10_250_rome_dolly_zoom/mp4/20241212_5-10_250_rome_dolly_zoom_mp4.tar",
+      "bytes": 1724180480,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20241212_5-10_250_rome_dolly_zoom/mp4/20241212_5-10_250_rome_dolly_zoom_mp4.tar"
+    },
+    {
+      "path": "20241212_5-10_250_rome_dolly_zoom/mp4/20241212_5-10_250_rome_dolly_zoom_mp4.tar.xxh128",
+      "bytes": 76,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20241212_5-10_250_rome_dolly_zoom/mp4/20241212_5-10_250_rome_dolly_zoom_mp4.tar.xxh128"
+    },
+    {
+      "path": "20241213_1_250_rome_tracking/ground_truth/20241213_1_250_rome_tracking_gt_centersubframe_exr_meta.tar.gz",
+      "bytes": 59540075,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20241213_1_250_rome_tracking/ground_truth/20241213_1_250_rome_tracking_gt_centersubframe_exr_meta.tar.gz"
+    },
+    {
+      "path": "20241213_1_250_rome_tracking/ground_truth/20241213_1_250_rome_tracking_gt_centersubframe_exr_meta.tar.gz.xxh128",
+      "bytes": 97,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20241213_1_250_rome_tracking/ground_truth/20241213_1_250_rome_tracking_gt_centersubframe_exr_meta.tar.gz.xxh128"
+    },
+    {
+      "path": "20241213_1_250_rome_tracking/ground_truth/20241213_1_250_rome_tracking_gt_centersubframe_exr_meta_csv.tar.gz",
+      "bytes": 10764856,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20241213_1_250_rome_tracking/ground_truth/20241213_1_250_rome_tracking_gt_centersubframe_exr_meta_csv.tar.gz"
+    },
+    {
+      "path": "20241213_1_250_rome_tracking/ground_truth/20241213_1_250_rome_tracking_gt_centersubframe_exr_meta_csv.tar.gz.xxh128",
+      "bytes": 101,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20241213_1_250_rome_tracking/ground_truth/20241213_1_250_rome_tracking_gt_centersubframe_exr_meta_csv.tar.gz.xxh128"
+    },
+    {
+      "path": "20241213_1_250_rome_tracking/mp4/20241213_1_250_rome_tracking_mp4.tar",
+      "bytes": 4054702080,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20241213_1_250_rome_tracking/mp4/20241213_1_250_rome_tracking_mp4.tar"
+    },
+    {
+      "path": "20241213_1_250_rome_tracking/mp4/20241213_1_250_rome_tracking_mp4.tar.xxh128",
+      "bytes": 71,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20241213_1_250_rome_tracking/mp4/20241213_1_250_rome_tracking_mp4.tar.xxh128"
+    },
+    {
+      "path": "20241217_1_250_rome_vcam/ground_truth/20241217_1_250_rome_vcam_gt_centersubframe_exr_meta.tar.gz",
+      "bytes": 58402655,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20241217_1_250_rome_vcam/ground_truth/20241217_1_250_rome_vcam_gt_centersubframe_exr_meta.tar.gz"
+    },
+    {
+      "path": "20241217_1_250_rome_vcam/ground_truth/20241217_1_250_rome_vcam_gt_centersubframe_exr_meta.tar.gz.xxh128",
+      "bytes": 93,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20241217_1_250_rome_vcam/ground_truth/20241217_1_250_rome_vcam_gt_centersubframe_exr_meta.tar.gz.xxh128"
+    },
+    {
+      "path": "20241217_1_250_rome_vcam/ground_truth/20241217_1_250_rome_vcam_gt_centersubframe_exr_meta_csv.tar.gz",
+      "bytes": 10629298,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20241217_1_250_rome_vcam/ground_truth/20241217_1_250_rome_vcam_gt_centersubframe_exr_meta_csv.tar.gz"
+    },
+    {
+      "path": "20241217_1_250_rome_vcam/ground_truth/20241217_1_250_rome_vcam_gt_centersubframe_exr_meta_csv.tar.gz.xxh128",
+      "bytes": 97,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20241217_1_250_rome_vcam/ground_truth/20241217_1_250_rome_vcam_gt_centersubframe_exr_meta_csv.tar.gz.xxh128"
+    },
+    {
+      "path": "20241217_1_250_rome_vcam/mp4/20241217_1_250_rome_vcam_mp4.tar",
+      "bytes": 4126218240,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20241217_1_250_rome_vcam/mp4/20241217_1_250_rome_vcam_mp4.tar"
+    },
+    {
+      "path": "20241217_1_250_rome_vcam/mp4/20241217_1_250_rome_vcam_mp4.tar.xxh128",
+      "bytes": 67,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20241217_1_250_rome_vcam/mp4/20241217_1_250_rome_vcam_mp4.tar.xxh128"
+    },
+    {
+      "path": "20241219_5_250_chemicalplant_dollyz_zoom/ground_truth/20241219_5_250_chemicalplant_dollyz_zoom_gt_centersubframe_exr_meta.tar.gz",
+      "bytes": 32183109,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20241219_5_250_chemicalplant_dollyz_zoom/ground_truth/20241219_5_250_chemicalplant_dollyz_zoom_gt_centersubframe_exr_meta.tar.gz"
+    },
+    {
+      "path": "20241219_5_250_chemicalplant_dollyz_zoom/ground_truth/20241219_5_250_chemicalplant_dollyz_zoom_gt_centersubframe_exr_meta.tar.gz.xxh128",
+      "bytes": 109,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20241219_5_250_chemicalplant_dollyz_zoom/ground_truth/20241219_5_250_chemicalplant_dollyz_zoom_gt_centersubframe_exr_meta.tar.gz.xxh128"
+    },
+    {
+      "path": "20241219_5_250_chemicalplant_dollyz_zoom/ground_truth/20241219_5_250_chemicalplant_dollyz_zoom_gt_centersubframe_exr_meta_csv.tar.gz",
+      "bytes": 5749343,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20241219_5_250_chemicalplant_dollyz_zoom/ground_truth/20241219_5_250_chemicalplant_dollyz_zoom_gt_centersubframe_exr_meta_csv.tar.gz"
+    },
+    {
+      "path": "20241219_5_250_chemicalplant_dollyz_zoom/ground_truth/20241219_5_250_chemicalplant_dollyz_zoom_gt_centersubframe_exr_meta_csv.tar.gz.xxh128",
+      "bytes": 113,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20241219_5_250_chemicalplant_dollyz_zoom/ground_truth/20241219_5_250_chemicalplant_dollyz_zoom_gt_centersubframe_exr_meta_csv.tar.gz.xxh128"
+    },
+    {
+      "path": "20241219_5_250_chemicalplant_dollyz_zoom/mp4/20241219_5_250_chemicalplant_dollyz_zoom_mp4.tar",
+      "bytes": 1611120640,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20241219_5_250_chemicalplant_dollyz_zoom/mp4/20241219_5_250_chemicalplant_dollyz_zoom_mp4.tar"
+    },
+    {
+      "path": "20241219_5_250_chemicalplant_dollyz_zoom/mp4/20241219_5_250_chemicalplant_dollyz_zoom_mp4.tar.xxh128",
+      "bytes": 83,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20241219_5_250_chemicalplant_dollyz_zoom/mp4/20241219_5_250_chemicalplant_dollyz_zoom_mp4.tar.xxh128"
+    },
+    {
+      "path": "20250103_1_250_rome_vcam/ground_truth/20250103_1_250_rome_vcam_gt_centersubframe_exr_meta.tar.gz",
+      "bytes": 66446061,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20250103_1_250_rome_vcam/ground_truth/20250103_1_250_rome_vcam_gt_centersubframe_exr_meta.tar.gz"
+    },
+    {
+      "path": "20250103_1_250_rome_vcam/ground_truth/20250103_1_250_rome_vcam_gt_centersubframe_exr_meta.tar.gz.xxh128",
+      "bytes": 93,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20250103_1_250_rome_vcam/ground_truth/20250103_1_250_rome_vcam_gt_centersubframe_exr_meta.tar.gz.xxh128"
+    },
+    {
+      "path": "20250103_1_250_rome_vcam/ground_truth/20250103_1_250_rome_vcam_gt_centersubframe_exr_meta_csv.tar.gz",
+      "bytes": 12060700,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20250103_1_250_rome_vcam/ground_truth/20250103_1_250_rome_vcam_gt_centersubframe_exr_meta_csv.tar.gz"
+    },
+    {
+      "path": "20250103_1_250_rome_vcam/ground_truth/20250103_1_250_rome_vcam_gt_centersubframe_exr_meta_csv.tar.gz.xxh128",
+      "bytes": 97,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20250103_1_250_rome_vcam/ground_truth/20250103_1_250_rome_vcam_gt_centersubframe_exr_meta_csv.tar.gz.xxh128"
+    },
+    {
+      "path": "20250103_1_250_rome_vcam/mp4/20250103_1_250_rome_vcam_mp4.tar",
+      "bytes": 6033653760,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20250103_1_250_rome_vcam/mp4/20250103_1_250_rome_vcam_mp4.tar"
+    },
+    {
+      "path": "20250103_1_250_rome_vcam/mp4/20250103_1_250_rome_vcam_mp4.tar.xxh128",
+      "bytes": 67,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20250103_1_250_rome_vcam/mp4/20250103_1_250_rome_vcam_mp4.tar.xxh128"
+    },
+    {
+      "path": "20250110_1_250_chemicalplant_vcam/ground_truth/20250110_1_250_chemicalplant_vcam_gt_centersubframe_exr_meta.tar.gz",
+      "bytes": 62894877,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20250110_1_250_chemicalplant_vcam/ground_truth/20250110_1_250_chemicalplant_vcam_gt_centersubframe_exr_meta.tar.gz"
+    },
+    {
+      "path": "20250110_1_250_chemicalplant_vcam/ground_truth/20250110_1_250_chemicalplant_vcam_gt_centersubframe_exr_meta.tar.gz.xxh128",
+      "bytes": 102,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20250110_1_250_chemicalplant_vcam/ground_truth/20250110_1_250_chemicalplant_vcam_gt_centersubframe_exr_meta.tar.gz.xxh128"
+    },
+    {
+      "path": "20250110_1_250_chemicalplant_vcam/ground_truth/20250110_1_250_chemicalplant_vcam_gt_centersubframe_exr_meta_csv.tar.gz",
+      "bytes": 11533242,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20250110_1_250_chemicalplant_vcam/ground_truth/20250110_1_250_chemicalplant_vcam_gt_centersubframe_exr_meta_csv.tar.gz"
+    },
+    {
+      "path": "20250110_1_250_chemicalplant_vcam/ground_truth/20250110_1_250_chemicalplant_vcam_gt_centersubframe_exr_meta_csv.tar.gz.xxh128",
+      "bytes": 106,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20250110_1_250_chemicalplant_vcam/ground_truth/20250110_1_250_chemicalplant_vcam_gt_centersubframe_exr_meta_csv.tar.gz.xxh128"
+    },
+    {
+      "path": "20250110_1_250_chemicalplant_vcam/mp4/20250110_1_250_chemicalplant_vcam_mp4.tar",
+      "bytes": 3323422720,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20250110_1_250_chemicalplant_vcam/mp4/20250110_1_250_chemicalplant_vcam_mp4.tar"
+    },
+    {
+      "path": "20250110_1_250_chemicalplant_vcam/mp4/20250110_1_250_chemicalplant_vcam_mp4.tar.xxh128",
+      "bytes": 76,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20250110_1_250_chemicalplant_vcam/mp4/20250110_1_250_chemicalplant_vcam_mp4.tar.xxh128"
+    },
+    {
+      "path": "20250113_1_250_rome_vcam/ground_truth/20250113_1_250_rome_vcam_gt_centersubframe_exr_meta.tar.gz",
+      "bytes": 64803290,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20250113_1_250_rome_vcam/ground_truth/20250113_1_250_rome_vcam_gt_centersubframe_exr_meta.tar.gz"
+    },
+    {
+      "path": "20250113_1_250_rome_vcam/ground_truth/20250113_1_250_rome_vcam_gt_centersubframe_exr_meta.tar.gz.xxh128",
+      "bytes": 93,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20250113_1_250_rome_vcam/ground_truth/20250113_1_250_rome_vcam_gt_centersubframe_exr_meta.tar.gz.xxh128"
+    },
+    {
+      "path": "20250113_1_250_rome_vcam/ground_truth/20250113_1_250_rome_vcam_gt_centersubframe_exr_meta_csv.tar.gz",
+      "bytes": 11874039,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20250113_1_250_rome_vcam/ground_truth/20250113_1_250_rome_vcam_gt_centersubframe_exr_meta_csv.tar.gz"
+    },
+    {
+      "path": "20250113_1_250_rome_vcam/ground_truth/20250113_1_250_rome_vcam_gt_centersubframe_exr_meta_csv.tar.gz.xxh128",
+      "bytes": 97,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20250113_1_250_rome_vcam/ground_truth/20250113_1_250_rome_vcam_gt_centersubframe_exr_meta_csv.tar.gz.xxh128"
+    },
+    {
+      "path": "20250113_1_250_rome_vcam/mp4/20250113_1_250_rome_vcam_mp4.tar",
+      "bytes": 5278720000,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20250113_1_250_rome_vcam/mp4/20250113_1_250_rome_vcam_mp4.tar"
+    },
+    {
+      "path": "20250113_1_250_rome_vcam/mp4/20250113_1_250_rome_vcam_mp4.tar.xxh128",
+      "bytes": 67,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20250113_1_250_rome_vcam/mp4/20250113_1_250_rome_vcam_mp4.tar.xxh128"
+    },
+    {
+      "path": "20250114_4-5_250_chemicalplant_dolly_zoom/ground_truth/20250114_4-5_250_chemicalplant_dolly_zoom_gt_centersubframe_exr_meta.tar.gz",
+      "bytes": 31831187,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20250114_4-5_250_chemicalplant_dolly_zoom/ground_truth/20250114_4-5_250_chemicalplant_dolly_zoom_gt_centersubframe_exr_meta.tar.gz"
+    },
+    {
+      "path": "20250114_4-5_250_chemicalplant_dolly_zoom/ground_truth/20250114_4-5_250_chemicalplant_dolly_zoom_gt_centersubframe_exr_meta.tar.gz.xxh128",
+      "bytes": 110,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20250114_4-5_250_chemicalplant_dolly_zoom/ground_truth/20250114_4-5_250_chemicalplant_dolly_zoom_gt_centersubframe_exr_meta.tar.gz.xxh128"
+    },
+    {
+      "path": "20250114_4-5_250_chemicalplant_dolly_zoom/ground_truth/20250114_4-5_250_chemicalplant_dolly_zoom_gt_centersubframe_exr_meta_csv.tar.gz",
+      "bytes": 5696991,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20250114_4-5_250_chemicalplant_dolly_zoom/ground_truth/20250114_4-5_250_chemicalplant_dolly_zoom_gt_centersubframe_exr_meta_csv.tar.gz"
+    },
+    {
+      "path": "20250114_4-5_250_chemicalplant_dolly_zoom/ground_truth/20250114_4-5_250_chemicalplant_dolly_zoom_gt_centersubframe_exr_meta_csv.tar.gz.xxh128",
+      "bytes": 114,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20250114_4-5_250_chemicalplant_dolly_zoom/ground_truth/20250114_4-5_250_chemicalplant_dolly_zoom_gt_centersubframe_exr_meta_csv.tar.gz.xxh128"
+    },
+    {
+      "path": "20250114_4-5_250_chemicalplant_dolly_zoom/mp4/20250114_4-5_250_chemicalplant_dolly_zoom_mp4.tar",
+      "bytes": 1654937600,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20250114_4-5_250_chemicalplant_dolly_zoom/mp4/20250114_4-5_250_chemicalplant_dolly_zoom_mp4.tar"
+    },
+    {
+      "path": "20250114_4-5_250_chemicalplant_dolly_zoom/mp4/20250114_4-5_250_chemicalplant_dolly_zoom_mp4.tar.xxh128",
+      "bytes": 84,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20250114_4-5_250_chemicalplant_dolly_zoom/mp4/20250114_4-5_250_chemicalplant_dolly_zoom_mp4.tar.xxh128"
+    },
+    {
+      "path": "20250123_1_250_chemicalplant_vcamego/ground_truth/20250123_1_250_chemicalplant_vcamego_gt_centersubframe_exr_meta.tar.gz",
+      "bytes": 58934132,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20250123_1_250_chemicalplant_vcamego/ground_truth/20250123_1_250_chemicalplant_vcamego_gt_centersubframe_exr_meta.tar.gz"
+    },
+    {
+      "path": "20250123_1_250_chemicalplant_vcamego/ground_truth/20250123_1_250_chemicalplant_vcamego_gt_centersubframe_exr_meta.tar.gz.xxh128",
+      "bytes": 105,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20250123_1_250_chemicalplant_vcamego/ground_truth/20250123_1_250_chemicalplant_vcamego_gt_centersubframe_exr_meta.tar.gz.xxh128"
+    },
+    {
+      "path": "20250123_1_250_chemicalplant_vcamego/ground_truth/20250123_1_250_chemicalplant_vcamego_gt_centersubframe_exr_meta_csv.tar.gz",
+      "bytes": 8979212,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20250123_1_250_chemicalplant_vcamego/ground_truth/20250123_1_250_chemicalplant_vcamego_gt_centersubframe_exr_meta_csv.tar.gz"
+    },
+    {
+      "path": "20250123_1_250_chemicalplant_vcamego/ground_truth/20250123_1_250_chemicalplant_vcamego_gt_centersubframe_exr_meta_csv.tar.gz.xxh128",
+      "bytes": 109,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20250123_1_250_chemicalplant_vcamego/ground_truth/20250123_1_250_chemicalplant_vcamego_gt_centersubframe_exr_meta_csv.tar.gz.xxh128"
+    },
+    {
+      "path": "20250123_1_250_chemicalplant_vcamego/mp4/20250123_1_250_chemicalplant_vcamego_mp4.tar",
+      "bytes": 4540026880,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20250123_1_250_chemicalplant_vcamego/mp4/20250123_1_250_chemicalplant_vcamego_mp4.tar"
+    },
+    {
+      "path": "20250123_1_250_chemicalplant_vcamego/mp4/20250123_1_250_chemicalplant_vcamego_mp4.tar.xxh128",
+      "bytes": 79,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20250123_1_250_chemicalplant_vcamego/mp4/20250123_1_250_chemicalplant_vcamego_mp4.tar.xxh128"
+    },
+    {
+      "path": "20250131_1_250_ai1102_vcamego/ground_truth/20250131_1_250_ai1102_vcamego_gt_centersubframe_exr_meta.tar.gz",
+      "bytes": 68155820,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20250131_1_250_ai1102_vcamego/ground_truth/20250131_1_250_ai1102_vcamego_gt_centersubframe_exr_meta.tar.gz"
+    },
+    {
+      "path": "20250131_1_250_ai1102_vcamego/ground_truth/20250131_1_250_ai1102_vcamego_gt_centersubframe_exr_meta.tar.gz.xxh128",
+      "bytes": 98,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20250131_1_250_ai1102_vcamego/ground_truth/20250131_1_250_ai1102_vcamego_gt_centersubframe_exr_meta.tar.gz.xxh128"
+    },
+    {
+      "path": "20250131_1_250_ai1102_vcamego/ground_truth/20250131_1_250_ai1102_vcamego_gt_centersubframe_exr_meta_csv.tar.gz",
+      "bytes": 10330209,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20250131_1_250_ai1102_vcamego/ground_truth/20250131_1_250_ai1102_vcamego_gt_centersubframe_exr_meta_csv.tar.gz"
+    },
+    {
+      "path": "20250131_1_250_ai1102_vcamego/ground_truth/20250131_1_250_ai1102_vcamego_gt_centersubframe_exr_meta_csv.tar.gz.xxh128",
+      "bytes": 102,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20250131_1_250_ai1102_vcamego/ground_truth/20250131_1_250_ai1102_vcamego_gt_centersubframe_exr_meta_csv.tar.gz.xxh128"
+    },
+    {
+      "path": "20250131_1_250_ai1102_vcamego/mp4/20250131_1_250_ai1102_vcamego_mp4.tar",
+      "bytes": 3236106240,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20250131_1_250_ai1102_vcamego/mp4/20250131_1_250_ai1102_vcamego_mp4.tar"
+    },
+    {
+      "path": "20250131_1_250_ai1102_vcamego/mp4/20250131_1_250_ai1102_vcamego_mp4.tar.xxh128",
+      "bytes": 72,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20250131_1_250_ai1102_vcamego/mp4/20250131_1_250_ai1102_vcamego_mp4.tar.xxh128"
+    },
+    {
+      "path": "20250206_4-7_250_yakohama_vcamego_approach/ground_truth/20250206_4-7_250_yakohama_vcamego_approach_gt_centersubframe_exr_meta.tar.gz",
+      "bytes": 70412159,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20250206_4-7_250_yakohama_vcamego_approach/ground_truth/20250206_4-7_250_yakohama_vcamego_approach_gt_centersubframe_exr_meta.tar.gz"
+    },
+    {
+      "path": "20250206_4-7_250_yakohama_vcamego_approach/ground_truth/20250206_4-7_250_yakohama_vcamego_approach_gt_centersubframe_exr_meta.tar.gz.xxh128",
+      "bytes": 111,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20250206_4-7_250_yakohama_vcamego_approach/ground_truth/20250206_4-7_250_yakohama_vcamego_approach_gt_centersubframe_exr_meta.tar.gz.xxh128"
+    },
+    {
+      "path": "20250206_4-7_250_yakohama_vcamego_approach/ground_truth/20250206_4-7_250_yakohama_vcamego_approach_gt_centersubframe_exr_meta_csv.tar.gz",
+      "bytes": 10656264,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20250206_4-7_250_yakohama_vcamego_approach/ground_truth/20250206_4-7_250_yakohama_vcamego_approach_gt_centersubframe_exr_meta_csv.tar.gz"
+    },
+    {
+      "path": "20250206_4-7_250_yakohama_vcamego_approach/ground_truth/20250206_4-7_250_yakohama_vcamego_approach_gt_centersubframe_exr_meta_csv.tar.gz.xxh128",
+      "bytes": 115,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20250206_4-7_250_yakohama_vcamego_approach/ground_truth/20250206_4-7_250_yakohama_vcamego_approach_gt_centersubframe_exr_meta_csv.tar.gz.xxh128"
+    },
+    {
+      "path": "20250206_4-7_250_yakohama_vcamego_approach/mp4/20250206_4-7_250_yakohama_vcamego_approach_mp4.tar",
+      "bytes": 2527549440,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20250206_4-7_250_yakohama_vcamego_approach/mp4/20250206_4-7_250_yakohama_vcamego_approach_mp4.tar"
+    },
+    {
+      "path": "20250206_4-7_250_yakohama_vcamego_approach/mp4/20250206_4-7_250_yakohama_vcamego_approach_mp4.tar.xxh128",
+      "bytes": 85,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20250206_4-7_250_yakohama_vcamego_approach/mp4/20250206_4-7_250_yakohama_vcamego_approach_mp4.tar.xxh128"
+    },
+    {
+      "path": "20250211_1_250_ai1105_upperbody/ground_truth/20250211_1_250_ai1105_upperbody_gt_centersubframe_exr_meta.tar.gz",
+      "bytes": 29197876,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20250211_1_250_ai1105_upperbody/ground_truth/20250211_1_250_ai1105_upperbody_gt_centersubframe_exr_meta.tar.gz"
+    },
+    {
+      "path": "20250211_1_250_ai1105_upperbody/ground_truth/20250211_1_250_ai1105_upperbody_gt_centersubframe_exr_meta.tar.gz.xxh128",
+      "bytes": 100,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20250211_1_250_ai1105_upperbody/ground_truth/20250211_1_250_ai1105_upperbody_gt_centersubframe_exr_meta.tar.gz.xxh128"
+    },
+    {
+      "path": "20250211_1_250_ai1105_upperbody/ground_truth/20250211_1_250_ai1105_upperbody_gt_centersubframe_exr_meta_csv.tar.gz",
+      "bytes": 4655825,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20250211_1_250_ai1105_upperbody/ground_truth/20250211_1_250_ai1105_upperbody_gt_centersubframe_exr_meta_csv.tar.gz"
+    },
+    {
+      "path": "20250211_1_250_ai1105_upperbody/ground_truth/20250211_1_250_ai1105_upperbody_gt_centersubframe_exr_meta_csv.tar.gz.xxh128",
+      "bytes": 104,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20250211_1_250_ai1105_upperbody/ground_truth/20250211_1_250_ai1105_upperbody_gt_centersubframe_exr_meta_csv.tar.gz.xxh128"
+    },
+    {
+      "path": "20250211_1_250_ai1105_upperbody/mp4/20250211_1_250_ai1105_upperbody_mp4.tar",
+      "bytes": 1891133440,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20250211_1_250_ai1105_upperbody/mp4/20250211_1_250_ai1105_upperbody_mp4.tar"
+    },
+    {
+      "path": "20250211_1_250_ai1105_upperbody/mp4/20250211_1_250_ai1105_upperbody_mp4.tar.xxh128",
+      "bytes": 74,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20250211_1_250_ai1105_upperbody/mp4/20250211_1_250_ai1105_upperbody_mp4.tar.xxh128"
+    },
+    {
+      "path": "20250212_1_250_yakohama_upperbody/blacklist.txt",
+      "bytes": 12,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20250212_1_250_yakohama_upperbody/blacklist.txt"
+    },
+    {
+      "path": "20250212_1_250_yakohama_upperbody/ground_truth/20250212_1_250_yakohama_upperbody_gt_centersubframe_exr_meta.tar.gz",
+      "bytes": 27984675,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20250212_1_250_yakohama_upperbody/ground_truth/20250212_1_250_yakohama_upperbody_gt_centersubframe_exr_meta.tar.gz"
+    },
+    {
+      "path": "20250212_1_250_yakohama_upperbody/ground_truth/20250212_1_250_yakohama_upperbody_gt_centersubframe_exr_meta.tar.gz.xxh128",
+      "bytes": 102,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20250212_1_250_yakohama_upperbody/ground_truth/20250212_1_250_yakohama_upperbody_gt_centersubframe_exr_meta.tar.gz.xxh128"
+    },
+    {
+      "path": "20250212_1_250_yakohama_upperbody/ground_truth/20250212_1_250_yakohama_upperbody_gt_centersubframe_exr_meta_csv.tar.gz",
+      "bytes": 4463645,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20250212_1_250_yakohama_upperbody/ground_truth/20250212_1_250_yakohama_upperbody_gt_centersubframe_exr_meta_csv.tar.gz"
+    },
+    {
+      "path": "20250212_1_250_yakohama_upperbody/ground_truth/20250212_1_250_yakohama_upperbody_gt_centersubframe_exr_meta_csv.tar.gz.xxh128",
+      "bytes": 106,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20250212_1_250_yakohama_upperbody/ground_truth/20250212_1_250_yakohama_upperbody_gt_centersubframe_exr_meta_csv.tar.gz.xxh128"
+    },
+    {
+      "path": "20250212_1_250_yakohama_upperbody/mp4/20250212_1_250_yakohama_upperbody_mp4.tar",
+      "bytes": 827279360,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20250212_1_250_yakohama_upperbody/mp4/20250212_1_250_yakohama_upperbody_mp4.tar"
+    },
+    {
+      "path": "20250212_1_250_yakohama_upperbody/mp4/20250212_1_250_yakohama_upperbody_mp4.tar.xxh128",
+      "bytes": 76,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20250212_1_250_yakohama_upperbody/mp4/20250212_1_250_yakohama_upperbody_mp4.tar.xxh128"
+    },
+    {
+      "path": "20250214_1_250_chemicalplant_upperbody/ground_truth/20250214_1_250_chemicalplant_upperbody_gt_centersubframe_exr_meta.tar.gz",
+      "bytes": 35416501,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20250214_1_250_chemicalplant_upperbody/ground_truth/20250214_1_250_chemicalplant_upperbody_gt_centersubframe_exr_meta.tar.gz"
+    },
+    {
+      "path": "20250214_1_250_chemicalplant_upperbody/ground_truth/20250214_1_250_chemicalplant_upperbody_gt_centersubframe_exr_meta.tar.gz.xxh128",
+      "bytes": 107,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20250214_1_250_chemicalplant_upperbody/ground_truth/20250214_1_250_chemicalplant_upperbody_gt_centersubframe_exr_meta.tar.gz.xxh128"
+    },
+    {
+      "path": "20250214_1_250_chemicalplant_upperbody/ground_truth/20250214_1_250_chemicalplant_upperbody_gt_centersubframe_exr_meta_csv.tar.gz",
+      "bytes": 5681921,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20250214_1_250_chemicalplant_upperbody/ground_truth/20250214_1_250_chemicalplant_upperbody_gt_centersubframe_exr_meta_csv.tar.gz"
+    },
+    {
+      "path": "20250214_1_250_chemicalplant_upperbody/ground_truth/20250214_1_250_chemicalplant_upperbody_gt_centersubframe_exr_meta_csv.tar.gz.xxh128",
+      "bytes": 111,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20250214_1_250_chemicalplant_upperbody/ground_truth/20250214_1_250_chemicalplant_upperbody_gt_centersubframe_exr_meta_csv.tar.gz.xxh128"
+    },
+    {
+      "path": "20250214_1_250_chemicalplant_upperbody/mp4/20250214_1_250_chemicalplant_upperbody_mp4.tar",
+      "bytes": 3070924800,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20250214_1_250_chemicalplant_upperbody/mp4/20250214_1_250_chemicalplant_upperbody_mp4.tar"
+    },
+    {
+      "path": "20250214_1_250_chemicalplant_upperbody/mp4/20250214_1_250_chemicalplant_upperbody_mp4.tar.xxh128",
+      "bytes": 81,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20250214_1_250_chemicalplant_upperbody/mp4/20250214_1_250_chemicalplant_upperbody_mp4.tar.xxh128"
+    },
+    {
+      "path": "20250218_2-3_250_middleeast_upperbody/ground_truth/20250218_2-3_250_middleeast_upperbody_gt_centersubframe_exr_meta.tar.gz",
+      "bytes": 47543189,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20250218_2-3_250_middleeast_upperbody/ground_truth/20250218_2-3_250_middleeast_upperbody_gt_centersubframe_exr_meta.tar.gz"
+    },
+    {
+      "path": "20250218_2-3_250_middleeast_upperbody/ground_truth/20250218_2-3_250_middleeast_upperbody_gt_centersubframe_exr_meta.tar.gz.xxh128",
+      "bytes": 106,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20250218_2-3_250_middleeast_upperbody/ground_truth/20250218_2-3_250_middleeast_upperbody_gt_centersubframe_exr_meta.tar.gz.xxh128"
+    },
+    {
+      "path": "20250218_2-3_250_middleeast_upperbody/ground_truth/20250218_2-3_250_middleeast_upperbody_gt_centersubframe_exr_meta_csv.tar.gz",
+      "bytes": 7618862,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20250218_2-3_250_middleeast_upperbody/ground_truth/20250218_2-3_250_middleeast_upperbody_gt_centersubframe_exr_meta_csv.tar.gz"
+    },
+    {
+      "path": "20250218_2-3_250_middleeast_upperbody/ground_truth/20250218_2-3_250_middleeast_upperbody_gt_centersubframe_exr_meta_csv.tar.gz.xxh128",
+      "bytes": 110,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20250218_2-3_250_middleeast_upperbody/ground_truth/20250218_2-3_250_middleeast_upperbody_gt_centersubframe_exr_meta_csv.tar.gz.xxh128"
+    },
+    {
+      "path": "20250218_2-3_250_middleeast_upperbody/mp4/20250218_2-3_250_middleeast_upperbody_mp4.tar",
+      "bytes": 1704550400,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20250218_2-3_250_middleeast_upperbody/mp4/20250218_2-3_250_middleeast_upperbody_mp4.tar"
+    },
+    {
+      "path": "20250218_2-3_250_middleeast_upperbody/mp4/20250218_2-3_250_middleeast_upperbody_mp4.tar.xxh128",
+      "bytes": 80,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20250218_2-3_250_middleeast_upperbody/mp4/20250218_2-3_250_middleeast_upperbody_mp4.tar.xxh128"
+    },
+    {
+      "path": "20250219_3-4_250_middleeast_vcam_approach/ground_truth/20250219_3-4_250_middleeast_vcam_approach_gt_centersubframe_exr_meta.tar.gz",
+      "bytes": 30037395,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20250219_3-4_250_middleeast_vcam_approach/ground_truth/20250219_3-4_250_middleeast_vcam_approach_gt_centersubframe_exr_meta.tar.gz"
+    },
+    {
+      "path": "20250219_3-4_250_middleeast_vcam_approach/ground_truth/20250219_3-4_250_middleeast_vcam_approach_gt_centersubframe_exr_meta.tar.gz.xxh128",
+      "bytes": 110,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20250219_3-4_250_middleeast_vcam_approach/ground_truth/20250219_3-4_250_middleeast_vcam_approach_gt_centersubframe_exr_meta.tar.gz.xxh128"
+    },
+    {
+      "path": "20250219_3-4_250_middleeast_vcam_approach/ground_truth/20250219_3-4_250_middleeast_vcam_approach_gt_centersubframe_exr_meta_csv.tar.gz",
+      "bytes": 5564417,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20250219_3-4_250_middleeast_vcam_approach/ground_truth/20250219_3-4_250_middleeast_vcam_approach_gt_centersubframe_exr_meta_csv.tar.gz"
+    },
+    {
+      "path": "20250219_3-4_250_middleeast_vcam_approach/ground_truth/20250219_3-4_250_middleeast_vcam_approach_gt_centersubframe_exr_meta_csv.tar.gz.xxh128",
+      "bytes": 114,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20250219_3-4_250_middleeast_vcam_approach/ground_truth/20250219_3-4_250_middleeast_vcam_approach_gt_centersubframe_exr_meta_csv.tar.gz.xxh128"
+    },
+    {
+      "path": "20250219_3-4_250_middleeast_vcam_approach/mp4/20250219_3-4_250_middleeast_vcam_approach_mp4.tar",
+      "bytes": 730746880,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20250219_3-4_250_middleeast_vcam_approach/mp4/20250219_3-4_250_middleeast_vcam_approach_mp4.tar"
+    },
+    {
+      "path": "20250219_3-4_250_middleeast_vcam_approach/mp4/20250219_3-4_250_middleeast_vcam_approach_mp4.tar.xxh128",
+      "bytes": 84,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/20250219_3-4_250_middleeast_vcam_approach/mp4/20250219_3-4_250_middleeast_vcam_approach_mp4.tar.xxh128"
+    },
+    {
+      "path": "LICENSE.md",
+      "bytes": 6432,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/LICENSE.md"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1149,
+      "url": "https://huggingface.co/datasets/Intelligent-Systems/BEDLAM2/blob/15e18597eb570e1d7166a0b9ef1009d35b904093/README.md"
+    }
+  ],
+  "pinned_revision_recheck": "All selected paths/sizes matched the paginated pinned revision API."
+}
