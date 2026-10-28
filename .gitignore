@@ -1,0 +1,27 @@
+# Data, generated models and run outputs
+/data/
+/artifacts/
+*.pt
+*.onnx
+
+# Local environments and dependencies
+.venv/
+node_modules/
+
+# Python tooling
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+build/
+dist/
+.coverage
+htmlcov/
+
+# Secrets
+secrets
+secrets.*
+.env
+.env.*
+!.env.example
